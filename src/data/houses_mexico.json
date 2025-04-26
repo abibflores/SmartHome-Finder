@@ -1,0 +1,4415 @@
+[
+  {
+    "title": "Casa en Campestre, Metepec",
+    "price": 9962385,
+    "size_m2": 567,
+    "address": "Calle 105, Campestre, Metepec",
+    "rooms": 6,
+    "bathrooms": 1,
+    "parking_spots": 2,
+    "features": [
+      "sala de TV",
+      "patio trasero",
+      "terraza",
+      "bodega",
+      "alberca"
+    ],
+    "type": "Casa en condominio",
+    "state": "Estado de México",
+    "city": "Metepec",
+    "municipality": "Metepec"
+  },
+  {
+    "title": "Casa en Pedregal, Metepec",
+    "price": 4174025,
+    "size_m2": 207,
+    "address": "Calle 29, Pedregal, Metepec",
+    "rooms": 4,
+    "bathrooms": 4,
+    "parking_spots": 0,
+    "features": [
+      "patio trasero",
+      "bodega",
+      "jardín",
+      "terraza",
+      "alberca"
+    ],
+    "type": "Casa",
+    "state": "Estado de México",
+    "city": "Metepec",
+    "municipality": "Metepec"
+  },
+  {
+    "title": "Casa en Industrial, Metepec",
+    "price": 13976450,
+    "size_m2": 461,
+    "address": "Calle 111, Industrial, Metepec",
+    "rooms": 5,
+    "bathrooms": 4,
+    "parking_spots": 4,
+    "features": [
+      "sala de TV",
+      "alberca",
+      "roof garden",
+      "jardín"
+    ],
+    "type": "Casa en condominio",
+    "state": "Estado de México",
+    "city": "Metepec",
+    "municipality": "Metepec"
+  },
+  {
+    "title": "Casa en Centro, Metepec",
+    "price": 4197663,
+    "size_m2": 402,
+    "address": "Calle 15, Centro, Metepec",
+    "rooms": 3,
+    "bathrooms": 3,
+    "parking_spots": 3,
+    "features": [
+      "balcón",
+      "sótano",
+      "roof garden",
+      "terraza"
+    ],
+    "type": "Casa en condominio",
+    "state": "Estado de México",
+    "city": "Metepec",
+    "municipality": "Metepec"
+  },
+  {
+    "title": "Casa en Pedregal, Metepec",
+    "price": 9317342,
+    "size_m2": 303,
+    "address": "Calle 32, Pedregal, Metepec",
+    "rooms": 6,
+    "bathrooms": 5,
+    "parking_spots": 0,
+    "features": [
+      "cuarto de servicio",
+      "sótano",
+      "roof garden",
+      "balcón",
+      "alberca"
+    ],
+    "type": "Casa",
+    "state": "Estado de México",
+    "city": "Metepec",
+    "municipality": "Metepec"
+  },
+  {
+    "title": "Casa en Pedregal, Metepec",
+    "price": 14295115,
+    "size_m2": 478,
+    "address": "Calle 198, Pedregal, Metepec",
+    "rooms": 2,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "patio trasero",
+      "sala de TV",
+      "balcón"
+    ],
+    "type": "Penthouse",
+    "state": "Estado de México",
+    "city": "Metepec",
+    "municipality": "Metepec"
+  },
+  {
+    "title": "Casa en Urbano, Metepec",
+    "price": 3966657,
+    "size_m2": 545,
+    "address": "Calle 195, Urbano, Metepec",
+    "rooms": 5,
+    "bathrooms": 5,
+    "parking_spots": 4,
+    "features": [
+      "roof garden",
+      "cuarto de servicio",
+      "balcón",
+      "jardín"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Metepec",
+    "municipality": "Metepec"
+  },
+  {
+    "title": "Casa en Altavista, Metepec",
+    "price": 3006732,
+    "size_m2": 208,
+    "address": "Calle 163, Altavista, Metepec",
+    "rooms": 5,
+    "bathrooms": 1,
+    "parking_spots": 2,
+    "features": [
+      "patio trasero",
+      "cuarto de servicio"
+    ],
+    "type": "Casa en condominio",
+    "state": "Estado de México",
+    "city": "Metepec",
+    "municipality": "Metepec"
+  },
+  {
+    "title": "Casa en Centro, Metepec",
+    "price": 10795855,
+    "size_m2": 211,
+    "address": "Calle 156, Centro, Metepec",
+    "rooms": 5,
+    "bathrooms": 2,
+    "parking_spots": 3,
+    "features": [
+      "sótano",
+      "patio trasero"
+    ],
+    "type": "Casa",
+    "state": "Estado de México",
+    "city": "Metepec",
+    "municipality": "Metepec"
+  },
+  {
+    "title": "Casa en Bosques, Metepec",
+    "price": 5521191,
+    "size_m2": 448,
+    "address": "Calle 47, Bosques, Metepec",
+    "rooms": 6,
+    "bathrooms": 5,
+    "parking_spots": 3,
+    "features": [
+      "jardín",
+      "bodega",
+      "sótano",
+      "cuarto de servicio"
+    ],
+    "type": "Penthouse",
+    "state": "Estado de México",
+    "city": "Metepec",
+    "municipality": "Metepec"
+  },
+  {
+    "title": "Casa en Altavista, Toluca",
+    "price": 13579488,
+    "size_m2": 306,
+    "address": "Calle 57, Altavista, Toluca",
+    "rooms": 6,
+    "bathrooms": 4,
+    "parking_spots": 1,
+    "features": [
+      "jardín",
+      "bodega",
+      "alberca"
+    ],
+    "type": "Penthouse",
+    "state": "Estado de México",
+    "city": "Toluca",
+    "municipality": "Toluca"
+  },
+  {
+    "title": "Casa en Urbano, Toluca",
+    "price": 6646533,
+    "size_m2": 394,
+    "address": "Calle 147, Urbano, Toluca",
+    "rooms": 6,
+    "bathrooms": 5,
+    "parking_spots": 3,
+    "features": [
+      "patio trasero",
+      "bodega"
+    ],
+    "type": "Penthouse",
+    "state": "Estado de México",
+    "city": "Toluca",
+    "municipality": "Toluca"
+  },
+  {
+    "title": "Casa en Bosques, Toluca",
+    "price": 6151297,
+    "size_m2": 245,
+    "address": "Calle 155, Bosques, Toluca",
+    "rooms": 5,
+    "bathrooms": 5,
+    "parking_spots": 3,
+    "features": [
+      "sala de TV",
+      "patio trasero",
+      "jardín"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Toluca",
+    "municipality": "Toluca"
+  },
+  {
+    "title": "Casa en Pedregal, Toluca",
+    "price": 10719976,
+    "size_m2": 213,
+    "address": "Calle 167, Pedregal, Toluca",
+    "rooms": 4,
+    "bathrooms": 2,
+    "parking_spots": 0,
+    "features": [
+      "bodega",
+      "roof garden",
+      "sótano",
+      "balcón",
+      "jardín"
+    ],
+    "type": "Casa en condominio",
+    "state": "Estado de México",
+    "city": "Toluca",
+    "municipality": "Toluca"
+  },
+  {
+    "title": "Casa en Del Valle, Toluca",
+    "price": 3607424,
+    "size_m2": 430,
+    "address": "Calle 187, Del Valle, Toluca",
+    "rooms": 5,
+    "bathrooms": 4,
+    "parking_spots": 1,
+    "features": [
+      "sótano",
+      "bodega",
+      "cuarto de servicio",
+      "sala de TV",
+      "alberca"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Toluca",
+    "municipality": "Toluca"
+  },
+  {
+    "title": "Casa en Lomas, Toluca",
+    "price": 9638616,
+    "size_m2": 411,
+    "address": "Calle 122, Lomas, Toluca",
+    "rooms": 5,
+    "bathrooms": 1,
+    "parking_spots": 0,
+    "features": [
+      "cuarto de servicio",
+      "bodega",
+      "terraza",
+      "jardín"
+    ],
+    "type": "Casa",
+    "state": "Estado de México",
+    "city": "Toluca",
+    "municipality": "Toluca"
+  },
+  {
+    "title": "Casa en Urbano, Toluca",
+    "price": 3749749,
+    "size_m2": 463,
+    "address": "Calle 175, Urbano, Toluca",
+    "rooms": 5,
+    "bathrooms": 1,
+    "parking_spots": 1,
+    "features": [
+      "sala de TV",
+      "jardín"
+    ],
+    "type": "Casa",
+    "state": "Estado de México",
+    "city": "Toluca",
+    "municipality": "Toluca"
+  },
+  {
+    "title": "Casa en Pedregal, Toluca",
+    "price": 1460218,
+    "size_m2": 370,
+    "address": "Calle 118, Pedregal, Toluca",
+    "rooms": 4,
+    "bathrooms": 4,
+    "parking_spots": 3,
+    "features": [
+      "bodega",
+      "patio trasero"
+    ],
+    "type": "Casa en condominio",
+    "state": "Estado de México",
+    "city": "Toluca",
+    "municipality": "Toluca"
+  },
+  {
+    "title": "Casa en Pedregal, Toluca",
+    "price": 12901717,
+    "size_m2": 368,
+    "address": "Calle 94, Pedregal, Toluca",
+    "rooms": 2,
+    "bathrooms": 4,
+    "parking_spots": 1,
+    "features": [
+      "jardín",
+      "bodega",
+      "alberca",
+      "cuarto de servicio",
+      "sala de TV"
+    ],
+    "type": "Casa en condominio",
+    "state": "Estado de México",
+    "city": "Toluca",
+    "municipality": "Toluca"
+  },
+  {
+    "title": "Casa en Pedregal, Toluca",
+    "price": 8642367,
+    "size_m2": 215,
+    "address": "Calle 105, Pedregal, Toluca",
+    "rooms": 4,
+    "bathrooms": 3,
+    "parking_spots": 2,
+    "features": [
+      "jardín",
+      "alberca",
+      "bodega",
+      "sala de TV"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Toluca",
+    "municipality": "Toluca"
+  },
+  {
+    "title": "Casa en Urbano, Naucalpan",
+    "price": 6535541,
+    "size_m2": 121,
+    "address": "Calle 171, Urbano, Naucalpan",
+    "rooms": 3,
+    "bathrooms": 2,
+    "parking_spots": 1,
+    "features": [
+      "bodega",
+      "cuarto de servicio"
+    ],
+    "type": "Penthouse",
+    "state": "Estado de México",
+    "city": "Naucalpan de Juárez",
+    "municipality": "Naucalpan"
+  },
+  {
+    "title": "Casa en Urbano, Naucalpan",
+    "price": 8294522,
+    "size_m2": 85,
+    "address": "Calle 84, Urbano, Naucalpan",
+    "rooms": 4,
+    "bathrooms": 2,
+    "parking_spots": 4,
+    "features": [
+      "sótano",
+      "jardín"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Naucalpan de Juárez",
+    "municipality": "Naucalpan"
+  },
+  {
+    "title": "Casa en Residencial, Naucalpan",
+    "price": 11255910,
+    "size_m2": 326,
+    "address": "Calle 34, Residencial, Naucalpan",
+    "rooms": 4,
+    "bathrooms": 5,
+    "parking_spots": 0,
+    "features": [
+      "alberca",
+      "bodega",
+      "terraza",
+      "jardín"
+    ],
+    "type": "Casa",
+    "state": "Estado de México",
+    "city": "Naucalpan de Juárez",
+    "municipality": "Naucalpan"
+  },
+  {
+    "title": "Casa en Centro, Naucalpan",
+    "price": 13559384,
+    "size_m2": 519,
+    "address": "Calle 185, Centro, Naucalpan",
+    "rooms": 6,
+    "bathrooms": 1,
+    "parking_spots": 1,
+    "features": [
+      "terraza",
+      "patio trasero"
+    ],
+    "type": "Penthouse",
+    "state": "Estado de México",
+    "city": "Naucalpan de Juárez",
+    "municipality": "Naucalpan"
+  },
+  {
+    "title": "Casa en Centro, Naucalpan",
+    "price": 5686503,
+    "size_m2": 348,
+    "address": "Calle 165, Centro, Naucalpan",
+    "rooms": 3,
+    "bathrooms": 1,
+    "parking_spots": 2,
+    "features": [
+      "cuarto de servicio",
+      "balcón",
+      "jardín",
+      "alberca"
+    ],
+    "type": "Casa",
+    "state": "Estado de México",
+    "city": "Naucalpan de Juárez",
+    "municipality": "Naucalpan"
+  },
+  {
+    "title": "Casa en Industrial, Naucalpan",
+    "price": 11434115,
+    "size_m2": 310,
+    "address": "Calle 114, Industrial, Naucalpan",
+    "rooms": 4,
+    "bathrooms": 2,
+    "parking_spots": 1,
+    "features": [
+      "jardín",
+      "alberca",
+      "cuarto de servicio"
+    ],
+    "type": "Casa en condominio",
+    "state": "Estado de México",
+    "city": "Naucalpan de Juárez",
+    "municipality": "Naucalpan"
+  },
+  {
+    "title": "Casa en Centro, Naucalpan",
+    "price": 7676006,
+    "size_m2": 306,
+    "address": "Calle 168, Centro, Naucalpan",
+    "rooms": 4,
+    "bathrooms": 5,
+    "parking_spots": 2,
+    "features": [
+      "patio trasero",
+      "sótano",
+      "jardín"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Naucalpan de Juárez",
+    "municipality": "Naucalpan"
+  },
+  {
+    "title": "Casa en Del Valle, Naucalpan",
+    "price": 4165634,
+    "size_m2": 412,
+    "address": "Calle 123, Del Valle, Naucalpan",
+    "rooms": 3,
+    "bathrooms": 2,
+    "parking_spots": 2,
+    "features": [
+      "alberca",
+      "bodega",
+      "roof garden",
+      "cuarto de servicio",
+      "patio trasero"
+    ],
+    "type": "Penthouse",
+    "state": "Estado de México",
+    "city": "Naucalpan de Juárez",
+    "municipality": "Naucalpan"
+  },
+  {
+    "title": "Casa en Pedregal, Naucalpan",
+    "price": 9360362,
+    "size_m2": 379,
+    "address": "Calle 90, Pedregal, Naucalpan",
+    "rooms": 6,
+    "bathrooms": 5,
+    "parking_spots": 4,
+    "features": [
+      "patio trasero",
+      "balcón",
+      "sala de TV",
+      "alberca",
+      "cuarto de servicio"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Naucalpan de Juárez",
+    "municipality": "Naucalpan"
+  },
+  {
+    "title": "Casa en Pedregal, Naucalpan",
+    "price": 3305380,
+    "size_m2": 445,
+    "address": "Calle 4, Pedregal, Naucalpan",
+    "rooms": 2,
+    "bathrooms": 5,
+    "parking_spots": 4,
+    "features": [
+      "sala de TV",
+      "roof garden",
+      "cuarto de servicio"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Naucalpan de Juárez",
+    "municipality": "Naucalpan"
+  },
+  {
+    "title": "Casa en Altavista, Tlalnepantla",
+    "price": 12547336,
+    "size_m2": 107,
+    "address": "Calle 68, Altavista, Tlalnepantla",
+    "rooms": 4,
+    "bathrooms": 2,
+    "parking_spots": 4,
+    "features": [
+      "alberca",
+      "balcón",
+      "bodega",
+      "roof garden",
+      "sala de TV"
+    ],
+    "type": "Penthouse",
+    "state": "Estado de México",
+    "city": "Tlalnepantla de Baz",
+    "municipality": "Tlalnepantla"
+  },
+  {
+    "title": "Casa en Altavista, Tlalnepantla",
+    "price": 11210001,
+    "size_m2": 259,
+    "address": "Calle 123, Altavista, Tlalnepantla",
+    "rooms": 3,
+    "bathrooms": 3,
+    "parking_spots": 3,
+    "features": [
+      "alberca",
+      "patio trasero",
+      "bodega",
+      "sótano"
+    ],
+    "type": "Casa",
+    "state": "Estado de México",
+    "city": "Tlalnepantla de Baz",
+    "municipality": "Tlalnepantla"
+  },
+  {
+    "title": "Casa en Campestre, Tlalnepantla",
+    "price": 7319978,
+    "size_m2": 506,
+    "address": "Calle 160, Campestre, Tlalnepantla",
+    "rooms": 5,
+    "bathrooms": 2,
+    "parking_spots": 4,
+    "features": [
+      "cuarto de servicio",
+      "alberca",
+      "jardín"
+    ],
+    "type": "Penthouse",
+    "state": "Estado de México",
+    "city": "Tlalnepantla de Baz",
+    "municipality": "Tlalnepantla"
+  },
+  {
+    "title": "Casa en Pedregal, Tlalnepantla",
+    "price": 10672956,
+    "size_m2": 135,
+    "address": "Calle 89, Pedregal, Tlalnepantla",
+    "rooms": 3,
+    "bathrooms": 2,
+    "parking_spots": 4,
+    "features": [
+      "alberca",
+      "patio trasero",
+      "jardín",
+      "balcón"
+    ],
+    "type": "Casa",
+    "state": "Estado de México",
+    "city": "Tlalnepantla de Baz",
+    "municipality": "Tlalnepantla"
+  },
+  {
+    "title": "Casa en Bosques, Tlalnepantla",
+    "price": 12402054,
+    "size_m2": 134,
+    "address": "Calle 194, Bosques, Tlalnepantla",
+    "rooms": 5,
+    "bathrooms": 1,
+    "parking_spots": 4,
+    "features": [
+      "terraza",
+      "roof garden",
+      "sótano"
+    ],
+    "type": "Casa en condominio",
+    "state": "Estado de México",
+    "city": "Tlalnepantla de Baz",
+    "municipality": "Tlalnepantla"
+  },
+  {
+    "title": "Casa en Centro, Tlalnepantla",
+    "price": 2180375,
+    "size_m2": 578,
+    "address": "Calle 142, Centro, Tlalnepantla",
+    "rooms": 6,
+    "bathrooms": 1,
+    "parking_spots": 0,
+    "features": [
+      "cuarto de servicio",
+      "sala de TV"
+    ],
+    "type": "Casa en condominio",
+    "state": "Estado de México",
+    "city": "Tlalnepantla de Baz",
+    "municipality": "Tlalnepantla"
+  },
+  {
+    "title": "Casa en Lomas, Tlalnepantla",
+    "price": 5714140,
+    "size_m2": 189,
+    "address": "Calle 166, Lomas, Tlalnepantla",
+    "rooms": 4,
+    "bathrooms": 2,
+    "parking_spots": 4,
+    "features": [
+      "alberca",
+      "sala de TV",
+      "balcón",
+      "terraza",
+      "roof garden"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Tlalnepantla de Baz",
+    "municipality": "Tlalnepantla"
+  },
+  {
+    "title": "Casa en Lomas, Tlalnepantla",
+    "price": 3133115,
+    "size_m2": 139,
+    "address": "Calle 73, Lomas, Tlalnepantla",
+    "rooms": 5,
+    "bathrooms": 5,
+    "parking_spots": 4,
+    "features": [
+      "alberca",
+      "sótano"
+    ],
+    "type": "Casa",
+    "state": "Estado de México",
+    "city": "Tlalnepantla de Baz",
+    "municipality": "Tlalnepantla"
+  },
+  {
+    "title": "Casa en Industrial, Tlalnepantla",
+    "price": 3529015,
+    "size_m2": 546,
+    "address": "Calle 59, Industrial, Tlalnepantla",
+    "rooms": 5,
+    "bathrooms": 4,
+    "parking_spots": 4,
+    "features": [
+      "balcón",
+      "jardín"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Tlalnepantla de Baz",
+    "municipality": "Tlalnepantla"
+  },
+  {
+    "title": "Casa en Industrial, Tlalnepantla",
+    "price": 14296242,
+    "size_m2": 411,
+    "address": "Calle 131, Industrial, Tlalnepantla",
+    "rooms": 3,
+    "bathrooms": 5,
+    "parking_spots": 4,
+    "features": [
+      "sótano",
+      "roof garden"
+    ],
+    "type": "Penthouse",
+    "state": "Estado de México",
+    "city": "Tlalnepantla de Baz",
+    "municipality": "Tlalnepantla"
+  },
+  {
+    "title": "Casa en Altavista, Ecatepec",
+    "price": 5884551,
+    "size_m2": 466,
+    "address": "Calle 188, Altavista, Ecatepec",
+    "rooms": 6,
+    "bathrooms": 3,
+    "parking_spots": 3,
+    "features": [
+      "patio trasero",
+      "alberca",
+      "sótano",
+      "sala de TV",
+      "terraza"
+    ],
+    "type": "Casa",
+    "state": "Estado de México",
+    "city": "Ecatepec de Morelos",
+    "municipality": "Ecatepec"
+  },
+  {
+    "title": "Casa en Altavista, Ecatepec",
+    "price": 6722977,
+    "size_m2": 207,
+    "address": "Calle 186, Altavista, Ecatepec",
+    "rooms": 3,
+    "bathrooms": 2,
+    "parking_spots": 4,
+    "features": [
+      "jardín",
+      "patio trasero",
+      "roof garden",
+      "alberca"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Ecatepec de Morelos",
+    "municipality": "Ecatepec"
+  },
+  {
+    "title": "Casa en Bosques, Ecatepec",
+    "price": 10159144,
+    "size_m2": 365,
+    "address": "Calle 36, Bosques, Ecatepec",
+    "rooms": 5,
+    "bathrooms": 5,
+    "parking_spots": 4,
+    "features": [
+      "roof garden",
+      "patio trasero"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Ecatepec de Morelos",
+    "municipality": "Ecatepec"
+  },
+  {
+    "title": "Casa en Altavista, Ecatepec",
+    "price": 9729910,
+    "size_m2": 396,
+    "address": "Calle 85, Altavista, Ecatepec",
+    "rooms": 6,
+    "bathrooms": 2,
+    "parking_spots": 1,
+    "features": [
+      "bodega",
+      "cuarto de servicio",
+      "jardín"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Ecatepec de Morelos",
+    "municipality": "Ecatepec"
+  },
+  {
+    "title": "Casa en Centro, Ecatepec",
+    "price": 12580095,
+    "size_m2": 485,
+    "address": "Calle 129, Centro, Ecatepec",
+    "rooms": 2,
+    "bathrooms": 1,
+    "parking_spots": 0,
+    "features": [
+      "cuarto de servicio",
+      "alberca"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Ecatepec de Morelos",
+    "municipality": "Ecatepec"
+  },
+  {
+    "title": "Casa en Del Valle, Ecatepec",
+    "price": 8749751,
+    "size_m2": 322,
+    "address": "Calle 12, Del Valle, Ecatepec",
+    "rooms": 5,
+    "bathrooms": 5,
+    "parking_spots": 1,
+    "features": [
+      "balcón",
+      "bodega"
+    ],
+    "type": "Casa",
+    "state": "Estado de México",
+    "city": "Ecatepec de Morelos",
+    "municipality": "Ecatepec"
+  },
+  {
+    "title": "Casa en Altavista, Ecatepec",
+    "price": 10122423,
+    "size_m2": 94,
+    "address": "Calle 18, Altavista, Ecatepec",
+    "rooms": 5,
+    "bathrooms": 5,
+    "parking_spots": 4,
+    "features": [
+      "sótano",
+      "cuarto de servicio",
+      "balcón",
+      "sala de TV",
+      "roof garden"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Ecatepec de Morelos",
+    "municipality": "Ecatepec"
+  },
+  {
+    "title": "Casa en Urbano, Ecatepec",
+    "price": 4348197,
+    "size_m2": 550,
+    "address": "Calle 26, Urbano, Ecatepec",
+    "rooms": 6,
+    "bathrooms": 2,
+    "parking_spots": 2,
+    "features": [
+      "jardín",
+      "sótano"
+    ],
+    "type": "Departamento",
+    "state": "Estado de México",
+    "city": "Ecatepec de Morelos",
+    "municipality": "Ecatepec"
+  },
+  {
+    "title": "Casa en Campestre, Ecatepec",
+    "price": 14733652,
+    "size_m2": 232,
+    "address": "Calle 180, Campestre, Ecatepec",
+    "rooms": 6,
+    "bathrooms": 4,
+    "parking_spots": 2,
+    "features": [
+      "patio trasero",
+      "balcón",
+      "jardín",
+      "cuarto de servicio"
+    ],
+    "type": "Penthouse",
+    "state": "Estado de México",
+    "city": "Ecatepec de Morelos",
+    "municipality": "Ecatepec"
+  },
+  {
+    "title": "Casa en Altavista, Ecatepec",
+    "price": 5170252,
+    "size_m2": 174,
+    "address": "Calle 101, Altavista, Ecatepec",
+    "rooms": 6,
+    "bathrooms": 5,
+    "parking_spots": 2,
+    "features": [
+      "patio trasero",
+      "terraza",
+      "sala de TV",
+      "cuarto de servicio"
+    ],
+    "type": "Casa en condominio",
+    "state": "Estado de México",
+    "city": "Ecatepec de Morelos",
+    "municipality": "Ecatepec"
+  },
+  {
+    "title": "Casa en Pedregal, Guadalajara",
+    "price": 7889443,
+    "size_m2": 566,
+    "address": "Calle 177, Pedregal, Guadalajara",
+    "rooms": 2,
+    "bathrooms": 3,
+    "parking_spots": 4,
+    "features": [
+      "balcón",
+      "sala de TV"
+    ],
+    "type": "Departamento",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "municipality": "Guadalajara"
+  },
+  {
+    "title": "Casa en Lomas, Guadalajara",
+    "price": 4637984,
+    "size_m2": 225,
+    "address": "Calle 6, Lomas, Guadalajara",
+    "rooms": 5,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "terraza",
+      "bodega",
+      "jardín"
+    ],
+    "type": "Casa en condominio",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "municipality": "Guadalajara"
+  },
+  {
+    "title": "Casa en Industrial, Guadalajara",
+    "price": 8386078,
+    "size_m2": 311,
+    "address": "Calle 13, Industrial, Guadalajara",
+    "rooms": 2,
+    "bathrooms": 3,
+    "parking_spots": 4,
+    "features": [
+      "sótano",
+      "terraza",
+      "alberca"
+    ],
+    "type": "Departamento",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "municipality": "Guadalajara"
+  },
+  {
+    "title": "Casa en Campestre, Guadalajara",
+    "price": 11748690,
+    "size_m2": 422,
+    "address": "Calle 136, Campestre, Guadalajara",
+    "rooms": 3,
+    "bathrooms": 5,
+    "parking_spots": 1,
+    "features": [
+      "terraza",
+      "alberca",
+      "bodega",
+      "patio trasero",
+      "roof garden"
+    ],
+    "type": "Casa en condominio",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "municipality": "Guadalajara"
+  },
+  {
+    "title": "Casa en Campestre, Guadalajara",
+    "price": 8280308,
+    "size_m2": 151,
+    "address": "Calle 35, Campestre, Guadalajara",
+    "rooms": 5,
+    "bathrooms": 4,
+    "parking_spots": 1,
+    "features": [
+      "sala de TV",
+      "roof garden",
+      "jardín",
+      "balcón",
+      "patio trasero"
+    ],
+    "type": "Casa",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "municipality": "Guadalajara"
+  },
+  {
+    "title": "Casa en Industrial, Guadalajara",
+    "price": 1169964,
+    "size_m2": 208,
+    "address": "Calle 90, Industrial, Guadalajara",
+    "rooms": 4,
+    "bathrooms": 1,
+    "parking_spots": 4,
+    "features": [
+      "terraza",
+      "sótano",
+      "jardín",
+      "roof garden",
+      "patio trasero"
+    ],
+    "type": "Casa",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "municipality": "Guadalajara"
+  },
+  {
+    "title": "Casa en Altavista, Guadalajara",
+    "price": 10377882,
+    "size_m2": 598,
+    "address": "Calle 178, Altavista, Guadalajara",
+    "rooms": 6,
+    "bathrooms": 3,
+    "parking_spots": 3,
+    "features": [
+      "bodega",
+      "cuarto de servicio",
+      "jardín",
+      "sótano",
+      "alberca"
+    ],
+    "type": "Penthouse",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "municipality": "Guadalajara"
+  },
+  {
+    "title": "Casa en Lomas, Guadalajara",
+    "price": 9319099,
+    "size_m2": 493,
+    "address": "Calle 160, Lomas, Guadalajara",
+    "rooms": 2,
+    "bathrooms": 5,
+    "parking_spots": 2,
+    "features": [
+      "jardín",
+      "alberca",
+      "sótano"
+    ],
+    "type": "Departamento",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "municipality": "Guadalajara"
+  },
+  {
+    "title": "Casa en Altavista, Guadalajara",
+    "price": 14837339,
+    "size_m2": 530,
+    "address": "Calle 177, Altavista, Guadalajara",
+    "rooms": 3,
+    "bathrooms": 1,
+    "parking_spots": 3,
+    "features": [
+      "patio trasero",
+      "terraza",
+      "balcón",
+      "cuarto de servicio"
+    ],
+    "type": "Casa en condominio",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "municipality": "Guadalajara"
+  },
+  {
+    "title": "Casa en Residencial, Guadalajara",
+    "price": 8522248,
+    "size_m2": 547,
+    "address": "Calle 157, Residencial, Guadalajara",
+    "rooms": 6,
+    "bathrooms": 3,
+    "parking_spots": 2,
+    "features": [
+      "alberca",
+      "roof garden",
+      "cuarto de servicio",
+      "sótano",
+      "jardín"
+    ],
+    "type": "Departamento",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "municipality": "Guadalajara"
+  },
+  {
+    "title": "Casa en Residencial, Zapopan",
+    "price": 3818679,
+    "size_m2": 586,
+    "address": "Calle 82, Residencial, Zapopan",
+    "rooms": 5,
+    "bathrooms": 4,
+    "parking_spots": 2,
+    "features": [
+      "jardín",
+      "cuarto de servicio",
+      "patio trasero",
+      "sala de TV"
+    ],
+    "type": "Departamento",
+    "state": "Jalisco",
+    "city": "Zapopan",
+    "municipality": "Zapopan"
+  },
+  {
+    "title": "Casa en Del Valle, Zapopan",
+    "price": 9969644,
+    "size_m2": 77,
+    "address": "Calle 28, Del Valle, Zapopan",
+    "rooms": 2,
+    "bathrooms": 3,
+    "parking_spots": 2,
+    "features": [
+      "roof garden",
+      "patio trasero",
+      "balcón"
+    ],
+    "type": "Penthouse",
+    "state": "Jalisco",
+    "city": "Zapopan",
+    "municipality": "Zapopan"
+  },
+  {
+    "title": "Casa en Lomas, Zapopan",
+    "price": 6305566,
+    "size_m2": 122,
+    "address": "Calle 94, Lomas, Zapopan",
+    "rooms": 5,
+    "bathrooms": 3,
+    "parking_spots": 3,
+    "features": [
+      "sala de TV",
+      "jardín",
+      "sótano",
+      "alberca"
+    ],
+    "type": "Penthouse",
+    "state": "Jalisco",
+    "city": "Zapopan",
+    "municipality": "Zapopan"
+  },
+  {
+    "title": "Casa en Del Valle, Zapopan",
+    "price": 9025254,
+    "size_m2": 232,
+    "address": "Calle 146, Del Valle, Zapopan",
+    "rooms": 2,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "roof garden",
+      "sótano",
+      "alberca",
+      "balcón",
+      "patio trasero"
+    ],
+    "type": "Departamento",
+    "state": "Jalisco",
+    "city": "Zapopan",
+    "municipality": "Zapopan"
+  },
+  {
+    "title": "Casa en Urbano, Zapopan",
+    "price": 12458207,
+    "size_m2": 420,
+    "address": "Calle 17, Urbano, Zapopan",
+    "rooms": 2,
+    "bathrooms": 2,
+    "parking_spots": 4,
+    "features": [
+      "balcón",
+      "cuarto de servicio",
+      "sala de TV",
+      "alberca",
+      "bodega"
+    ],
+    "type": "Departamento",
+    "state": "Jalisco",
+    "city": "Zapopan",
+    "municipality": "Zapopan"
+  },
+  {
+    "title": "Casa en Residencial, Zapopan",
+    "price": 5782530,
+    "size_m2": 176,
+    "address": "Calle 107, Residencial, Zapopan",
+    "rooms": 6,
+    "bathrooms": 2,
+    "parking_spots": 3,
+    "features": [
+      "patio trasero",
+      "sótano",
+      "balcón",
+      "jardín"
+    ],
+    "type": "Casa",
+    "state": "Jalisco",
+    "city": "Zapopan",
+    "municipality": "Zapopan"
+  },
+  {
+    "title": "Casa en Del Valle, Zapopan",
+    "price": 2307343,
+    "size_m2": 539,
+    "address": "Calle 53, Del Valle, Zapopan",
+    "rooms": 2,
+    "bathrooms": 5,
+    "parking_spots": 2,
+    "features": [
+      "cuarto de servicio",
+      "alberca"
+    ],
+    "type": "Casa en condominio",
+    "state": "Jalisco",
+    "city": "Zapopan",
+    "municipality": "Zapopan"
+  },
+  {
+    "title": "Casa en Del Valle, Zapopan",
+    "price": 6282800,
+    "size_m2": 562,
+    "address": "Calle 93, Del Valle, Zapopan",
+    "rooms": 3,
+    "bathrooms": 1,
+    "parking_spots": 0,
+    "features": [
+      "terraza",
+      "patio trasero",
+      "bodega",
+      "sala de TV",
+      "balcón"
+    ],
+    "type": "Casa",
+    "state": "Jalisco",
+    "city": "Zapopan",
+    "municipality": "Zapopan"
+  },
+  {
+    "title": "Casa en Urbano, Zapopan",
+    "price": 8915068,
+    "size_m2": 566,
+    "address": "Calle 101, Urbano, Zapopan",
+    "rooms": 4,
+    "bathrooms": 2,
+    "parking_spots": 2,
+    "features": [
+      "alberca",
+      "terraza",
+      "cuarto de servicio",
+      "roof garden"
+    ],
+    "type": "Casa",
+    "state": "Jalisco",
+    "city": "Zapopan",
+    "municipality": "Zapopan"
+  },
+  {
+    "title": "Casa en Campestre, Zapopan",
+    "price": 5603859,
+    "size_m2": 593,
+    "address": "Calle 93, Campestre, Zapopan",
+    "rooms": 5,
+    "bathrooms": 3,
+    "parking_spots": 0,
+    "features": [
+      "cuarto de servicio",
+      "balcón",
+      "sótano"
+    ],
+    "type": "Casa",
+    "state": "Jalisco",
+    "city": "Zapopan",
+    "municipality": "Zapopan"
+  },
+  {
+    "title": "Casa en Del Valle, Tlaquepaque",
+    "price": 1836366,
+    "size_m2": 190,
+    "address": "Calle 112, Del Valle, Tlaquepaque",
+    "rooms": 3,
+    "bathrooms": 3,
+    "parking_spots": 4,
+    "features": [
+      "roof garden",
+      "sótano",
+      "balcón",
+      "patio trasero"
+    ],
+    "type": "Casa en condominio",
+    "state": "Jalisco",
+    "city": "San Pedro Tlaquepaque",
+    "municipality": "Tlaquepaque"
+  },
+  {
+    "title": "Casa en Bosques, Tlaquepaque",
+    "price": 3473753,
+    "size_m2": 472,
+    "address": "Calle 27, Bosques, Tlaquepaque",
+    "rooms": 3,
+    "bathrooms": 3,
+    "parking_spots": 3,
+    "features": [
+      "patio trasero",
+      "jardín",
+      "bodega",
+      "balcón",
+      "alberca"
+    ],
+    "type": "Casa en condominio",
+    "state": "Jalisco",
+    "city": "San Pedro Tlaquepaque",
+    "municipality": "Tlaquepaque"
+  },
+  {
+    "title": "Casa en Bosques, Tlaquepaque",
+    "price": 10519716,
+    "size_m2": 148,
+    "address": "Calle 86, Bosques, Tlaquepaque",
+    "rooms": 2,
+    "bathrooms": 5,
+    "parking_spots": 0,
+    "features": [
+      "roof garden",
+      "bodega",
+      "alberca",
+      "jardín",
+      "sótano"
+    ],
+    "type": "Casa en condominio",
+    "state": "Jalisco",
+    "city": "San Pedro Tlaquepaque",
+    "municipality": "Tlaquepaque"
+  },
+  {
+    "title": "Casa en Del Valle, Tlaquepaque",
+    "price": 4885068,
+    "size_m2": 202,
+    "address": "Calle 96, Del Valle, Tlaquepaque",
+    "rooms": 2,
+    "bathrooms": 5,
+    "parking_spots": 4,
+    "features": [
+      "terraza",
+      "alberca"
+    ],
+    "type": "Penthouse",
+    "state": "Jalisco",
+    "city": "San Pedro Tlaquepaque",
+    "municipality": "Tlaquepaque"
+  },
+  {
+    "title": "Casa en Centro, Tlaquepaque",
+    "price": 9706234,
+    "size_m2": 510,
+    "address": "Calle 55, Centro, Tlaquepaque",
+    "rooms": 2,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "sótano",
+      "alberca",
+      "patio trasero",
+      "cuarto de servicio",
+      "bodega"
+    ],
+    "type": "Casa",
+    "state": "Jalisco",
+    "city": "San Pedro Tlaquepaque",
+    "municipality": "Tlaquepaque"
+  },
+  {
+    "title": "Casa en Industrial, Tlaquepaque",
+    "price": 13069629,
+    "size_m2": 450,
+    "address": "Calle 112, Industrial, Tlaquepaque",
+    "rooms": 4,
+    "bathrooms": 3,
+    "parking_spots": 4,
+    "features": [
+      "sótano",
+      "patio trasero",
+      "alberca",
+      "roof garden"
+    ],
+    "type": "Penthouse",
+    "state": "Jalisco",
+    "city": "San Pedro Tlaquepaque",
+    "municipality": "Tlaquepaque"
+  },
+  {
+    "title": "Casa en Pedregal, Tlaquepaque",
+    "price": 8242742,
+    "size_m2": 566,
+    "address": "Calle 198, Pedregal, Tlaquepaque",
+    "rooms": 3,
+    "bathrooms": 3,
+    "parking_spots": 3,
+    "features": [
+      "cuarto de servicio",
+      "sala de TV",
+      "jardín",
+      "terraza",
+      "sótano"
+    ],
+    "type": "Casa",
+    "state": "Jalisco",
+    "city": "San Pedro Tlaquepaque",
+    "municipality": "Tlaquepaque"
+  },
+  {
+    "title": "Casa en Lomas, Tlaquepaque",
+    "price": 9407830,
+    "size_m2": 577,
+    "address": "Calle 38, Lomas, Tlaquepaque",
+    "rooms": 4,
+    "bathrooms": 4,
+    "parking_spots": 3,
+    "features": [
+      "cuarto de servicio",
+      "sala de TV"
+    ],
+    "type": "Departamento",
+    "state": "Jalisco",
+    "city": "San Pedro Tlaquepaque",
+    "municipality": "Tlaquepaque"
+  },
+  {
+    "title": "Casa en Bosques, Tlaquepaque",
+    "price": 6327063,
+    "size_m2": 510,
+    "address": "Calle 52, Bosques, Tlaquepaque",
+    "rooms": 4,
+    "bathrooms": 1,
+    "parking_spots": 0,
+    "features": [
+      "sala de TV",
+      "bodega"
+    ],
+    "type": "Penthouse",
+    "state": "Jalisco",
+    "city": "San Pedro Tlaquepaque",
+    "municipality": "Tlaquepaque"
+  },
+  {
+    "title": "Casa en Del Valle, Tlaquepaque",
+    "price": 10227496,
+    "size_m2": 468,
+    "address": "Calle 32, Del Valle, Tlaquepaque",
+    "rooms": 6,
+    "bathrooms": 5,
+    "parking_spots": 2,
+    "features": [
+      "roof garden",
+      "bodega",
+      "cuarto de servicio"
+    ],
+    "type": "Casa",
+    "state": "Jalisco",
+    "city": "San Pedro Tlaquepaque",
+    "municipality": "Tlaquepaque"
+  },
+  {
+    "title": "Casa en Campestre, Monterrey",
+    "price": 10039310,
+    "size_m2": 70,
+    "address": "Calle 123, Campestre, Monterrey",
+    "rooms": 5,
+    "bathrooms": 2,
+    "parking_spots": 3,
+    "features": [
+      "terraza",
+      "sótano",
+      "patio trasero"
+    ],
+    "type": "Penthouse",
+    "state": "Nuevo León",
+    "city": "Monterrey",
+    "municipality": "Monterrey"
+  },
+  {
+    "title": "Casa en Industrial, Monterrey",
+    "price": 10309629,
+    "size_m2": 372,
+    "address": "Calle 181, Industrial, Monterrey",
+    "rooms": 3,
+    "bathrooms": 4,
+    "parking_spots": 4,
+    "features": [
+      "sótano",
+      "balcón",
+      "patio trasero",
+      "sala de TV"
+    ],
+    "type": "Casa",
+    "state": "Nuevo León",
+    "city": "Monterrey",
+    "municipality": "Monterrey"
+  },
+  {
+    "title": "Casa en Bosques, Monterrey",
+    "price": 13626279,
+    "size_m2": 365,
+    "address": "Calle 43, Bosques, Monterrey",
+    "rooms": 2,
+    "bathrooms": 1,
+    "parking_spots": 1,
+    "features": [
+      "sala de TV",
+      "alberca",
+      "jardín"
+    ],
+    "type": "Departamento",
+    "state": "Nuevo León",
+    "city": "Monterrey",
+    "municipality": "Monterrey"
+  },
+  {
+    "title": "Casa en Altavista, Monterrey",
+    "price": 5675374,
+    "size_m2": 316,
+    "address": "Calle 3, Altavista, Monterrey",
+    "rooms": 6,
+    "bathrooms": 1,
+    "parking_spots": 2,
+    "features": [
+      "bodega",
+      "alberca"
+    ],
+    "type": "Casa en condominio",
+    "state": "Nuevo León",
+    "city": "Monterrey",
+    "municipality": "Monterrey"
+  },
+  {
+    "title": "Casa en Bosques, Monterrey",
+    "price": 4816159,
+    "size_m2": 422,
+    "address": "Calle 147, Bosques, Monterrey",
+    "rooms": 6,
+    "bathrooms": 2,
+    "parking_spots": 1,
+    "features": [
+      "balcón",
+      "alberca"
+    ],
+    "type": "Casa",
+    "state": "Nuevo León",
+    "city": "Monterrey",
+    "municipality": "Monterrey"
+  },
+  {
+    "title": "Casa en Lomas, Monterrey",
+    "price": 9272079,
+    "size_m2": 451,
+    "address": "Calle 98, Lomas, Monterrey",
+    "rooms": 6,
+    "bathrooms": 5,
+    "parking_spots": 0,
+    "features": [
+      "balcón",
+      "bodega"
+    ],
+    "type": "Penthouse",
+    "state": "Nuevo León",
+    "city": "Monterrey",
+    "municipality": "Monterrey"
+  },
+  {
+    "title": "Casa en Lomas, Monterrey",
+    "price": 13043513,
+    "size_m2": 490,
+    "address": "Calle 113, Lomas, Monterrey",
+    "rooms": 3,
+    "bathrooms": 4,
+    "parking_spots": 4,
+    "features": [
+      "balcón",
+      "terraza",
+      "patio trasero"
+    ],
+    "type": "Departamento",
+    "state": "Nuevo León",
+    "city": "Monterrey",
+    "municipality": "Monterrey"
+  },
+  {
+    "title": "Casa en Altavista, Monterrey",
+    "price": 1061989,
+    "size_m2": 125,
+    "address": "Calle 94, Altavista, Monterrey",
+    "rooms": 5,
+    "bathrooms": 5,
+    "parking_spots": 3,
+    "features": [
+      "jardín",
+      "bodega",
+      "balcón"
+    ],
+    "type": "Penthouse",
+    "state": "Nuevo León",
+    "city": "Monterrey",
+    "municipality": "Monterrey"
+  },
+  {
+    "title": "Casa en Campestre, Monterrey",
+    "price": 12179909,
+    "size_m2": 330,
+    "address": "Calle 106, Campestre, Monterrey",
+    "rooms": 5,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "sala de TV",
+      "bodega",
+      "balcón"
+    ],
+    "type": "Penthouse",
+    "state": "Nuevo León",
+    "city": "Monterrey",
+    "municipality": "Monterrey"
+  },
+  {
+    "title": "Casa en Campestre, Monterrey",
+    "price": 3925572,
+    "size_m2": 495,
+    "address": "Calle 17, Campestre, Monterrey",
+    "rooms": 3,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "jardín",
+      "balcón",
+      "terraza",
+      "roof garden"
+    ],
+    "type": "Departamento",
+    "state": "Nuevo León",
+    "city": "Monterrey",
+    "municipality": "Monterrey"
+  },
+  {
+    "title": "Casa en Altavista, San Pedro Garza García",
+    "price": 12060415,
+    "size_m2": 334,
+    "address": "Calle 155, Altavista, San Pedro Garza García",
+    "rooms": 6,
+    "bathrooms": 5,
+    "parking_spots": 2,
+    "features": [
+      "patio trasero",
+      "jardín"
+    ],
+    "type": "Penthouse",
+    "state": "Nuevo León",
+    "city": "San Pedro Garza García",
+    "municipality": "San Pedro Garza García"
+  },
+  {
+    "title": "Casa en Residencial, San Pedro Garza García",
+    "price": 14535348,
+    "size_m2": 201,
+    "address": "Calle 97, Residencial, San Pedro Garza García",
+    "rooms": 4,
+    "bathrooms": 1,
+    "parking_spots": 2,
+    "features": [
+      "balcón",
+      "cuarto de servicio",
+      "patio trasero"
+    ],
+    "type": "Penthouse",
+    "state": "Nuevo León",
+    "city": "San Pedro Garza García",
+    "municipality": "San Pedro Garza García"
+  },
+  {
+    "title": "Casa en Campestre, San Pedro Garza García",
+    "price": 13565385,
+    "size_m2": 124,
+    "address": "Calle 3, Campestre, San Pedro Garza García",
+    "rooms": 4,
+    "bathrooms": 5,
+    "parking_spots": 4,
+    "features": [
+      "terraza",
+      "jardín",
+      "alberca",
+      "cuarto de servicio",
+      "sótano"
+    ],
+    "type": "Departamento",
+    "state": "Nuevo León",
+    "city": "San Pedro Garza García",
+    "municipality": "San Pedro Garza García"
+  },
+  {
+    "title": "Casa en Bosques, San Pedro Garza García",
+    "price": 5369440,
+    "size_m2": 244,
+    "address": "Calle 48, Bosques, San Pedro Garza García",
+    "rooms": 6,
+    "bathrooms": 1,
+    "parking_spots": 2,
+    "features": [
+      "roof garden",
+      "jardín"
+    ],
+    "type": "Departamento",
+    "state": "Nuevo León",
+    "city": "San Pedro Garza García",
+    "municipality": "San Pedro Garza García"
+  },
+  {
+    "title": "Casa en Residencial, San Pedro Garza García",
+    "price": 4668635,
+    "size_m2": 432,
+    "address": "Calle 157, Residencial, San Pedro Garza García",
+    "rooms": 6,
+    "bathrooms": 1,
+    "parking_spots": 4,
+    "features": [
+      "jardín",
+      "sala de TV",
+      "alberca",
+      "roof garden"
+    ],
+    "type": "Casa en condominio",
+    "state": "Nuevo León",
+    "city": "San Pedro Garza García",
+    "municipality": "San Pedro Garza García"
+  },
+  {
+    "title": "Casa en Del Valle, San Pedro Garza García",
+    "price": 1673344,
+    "size_m2": 549,
+    "address": "Calle 176, Del Valle, San Pedro Garza García",
+    "rooms": 5,
+    "bathrooms": 3,
+    "parking_spots": 0,
+    "features": [
+      "jardín",
+      "balcón",
+      "alberca"
+    ],
+    "type": "Departamento",
+    "state": "Nuevo León",
+    "city": "San Pedro Garza García",
+    "municipality": "San Pedro Garza García"
+  },
+  {
+    "title": "Casa en Urbano, San Pedro Garza García",
+    "price": 8166522,
+    "size_m2": 473,
+    "address": "Calle 76, Urbano, San Pedro Garza García",
+    "rooms": 4,
+    "bathrooms": 4,
+    "parking_spots": 3,
+    "features": [
+      "cuarto de servicio",
+      "alberca"
+    ],
+    "type": "Casa",
+    "state": "Nuevo León",
+    "city": "San Pedro Garza García",
+    "municipality": "San Pedro Garza García"
+  },
+  {
+    "title": "Casa en Centro, San Pedro Garza García",
+    "price": 11713884,
+    "size_m2": 395,
+    "address": "Calle 58, Centro, San Pedro Garza García",
+    "rooms": 6,
+    "bathrooms": 3,
+    "parking_spots": 3,
+    "features": [
+      "roof garden",
+      "sótano",
+      "terraza",
+      "balcón"
+    ],
+    "type": "Casa en condominio",
+    "state": "Nuevo León",
+    "city": "San Pedro Garza García",
+    "municipality": "San Pedro Garza García"
+  },
+  {
+    "title": "Casa en Urbano, San Pedro Garza García",
+    "price": 6251040,
+    "size_m2": 305,
+    "address": "Calle 22, Urbano, San Pedro Garza García",
+    "rooms": 2,
+    "bathrooms": 5,
+    "parking_spots": 2,
+    "features": [
+      "terraza",
+      "balcón",
+      "sótano"
+    ],
+    "type": "Casa",
+    "state": "Nuevo León",
+    "city": "San Pedro Garza García",
+    "municipality": "San Pedro Garza García"
+  },
+  {
+    "title": "Casa en Lomas, San Pedro Garza García",
+    "price": 2252124,
+    "size_m2": 587,
+    "address": "Calle 58, Lomas, San Pedro Garza García",
+    "rooms": 2,
+    "bathrooms": 4,
+    "parking_spots": 0,
+    "features": [
+      "roof garden",
+      "alberca"
+    ],
+    "type": "Penthouse",
+    "state": "Nuevo León",
+    "city": "San Pedro Garza García",
+    "municipality": "San Pedro Garza García"
+  },
+  {
+    "title": "Casa en Altavista, Querétaro",
+    "price": 4294005,
+    "size_m2": 370,
+    "address": "Calle 116, Altavista, Querétaro",
+    "rooms": 3,
+    "bathrooms": 5,
+    "parking_spots": 2,
+    "features": [
+      "cuarto de servicio",
+      "patio trasero",
+      "terraza"
+    ],
+    "type": "Penthouse",
+    "state": "Querétaro",
+    "city": "Querétaro",
+    "municipality": "Querétaro"
+  },
+  {
+    "title": "Casa en Urbano, Querétaro",
+    "price": 1513133,
+    "size_m2": 443,
+    "address": "Calle 4, Urbano, Querétaro",
+    "rooms": 2,
+    "bathrooms": 4,
+    "parking_spots": 4,
+    "features": [
+      "sala de TV",
+      "bodega",
+      "sótano",
+      "alberca",
+      "terraza"
+    ],
+    "type": "Casa",
+    "state": "Querétaro",
+    "city": "Querétaro",
+    "municipality": "Querétaro"
+  },
+  {
+    "title": "Casa en Pedregal, Querétaro",
+    "price": 14752368,
+    "size_m2": 423,
+    "address": "Calle 1, Pedregal, Querétaro",
+    "rooms": 2,
+    "bathrooms": 5,
+    "parking_spots": 0,
+    "features": [
+      "alberca",
+      "sala de TV",
+      "terraza",
+      "bodega",
+      "balcón"
+    ],
+    "type": "Casa",
+    "state": "Querétaro",
+    "city": "Querétaro",
+    "municipality": "Querétaro"
+  },
+  {
+    "title": "Casa en Pedregal, Querétaro",
+    "price": 1299361,
+    "size_m2": 169,
+    "address": "Calle 95, Pedregal, Querétaro",
+    "rooms": 3,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "sótano",
+      "jardín",
+      "balcón"
+    ],
+    "type": "Departamento",
+    "state": "Querétaro",
+    "city": "Querétaro",
+    "municipality": "Querétaro"
+  },
+  {
+    "title": "Casa en Residencial, Querétaro",
+    "price": 7349947,
+    "size_m2": 126,
+    "address": "Calle 5, Residencial, Querétaro",
+    "rooms": 4,
+    "bathrooms": 2,
+    "parking_spots": 3,
+    "features": [
+      "sala de TV",
+      "terraza"
+    ],
+    "type": "Penthouse",
+    "state": "Querétaro",
+    "city": "Querétaro",
+    "municipality": "Querétaro"
+  },
+  {
+    "title": "Casa en Del Valle, Querétaro",
+    "price": 7390896,
+    "size_m2": 518,
+    "address": "Calle 138, Del Valle, Querétaro",
+    "rooms": 2,
+    "bathrooms": 5,
+    "parking_spots": 2,
+    "features": [
+      "sótano",
+      "terraza",
+      "sala de TV"
+    ],
+    "type": "Departamento",
+    "state": "Querétaro",
+    "city": "Querétaro",
+    "municipality": "Querétaro"
+  },
+  {
+    "title": "Casa en Lomas, Querétaro",
+    "price": 14869442,
+    "size_m2": 355,
+    "address": "Calle 137, Lomas, Querétaro",
+    "rooms": 6,
+    "bathrooms": 4,
+    "parking_spots": 4,
+    "features": [
+      "terraza",
+      "roof garden",
+      "bodega"
+    ],
+    "type": "Departamento",
+    "state": "Querétaro",
+    "city": "Querétaro",
+    "municipality": "Querétaro"
+  },
+  {
+    "title": "Casa en Bosques, Querétaro",
+    "price": 11998765,
+    "size_m2": 126,
+    "address": "Calle 76, Bosques, Querétaro",
+    "rooms": 6,
+    "bathrooms": 5,
+    "parking_spots": 1,
+    "features": [
+      "jardín",
+      "balcón",
+      "bodega",
+      "cuarto de servicio",
+      "sala de TV"
+    ],
+    "type": "Casa",
+    "state": "Querétaro",
+    "city": "Querétaro",
+    "municipality": "Querétaro"
+  },
+  {
+    "title": "Casa en Del Valle, Querétaro",
+    "price": 8175133,
+    "size_m2": 595,
+    "address": "Calle 154, Del Valle, Querétaro",
+    "rooms": 6,
+    "bathrooms": 2,
+    "parking_spots": 2,
+    "features": [
+      "cuarto de servicio",
+      "roof garden",
+      "terraza",
+      "sala de TV"
+    ],
+    "type": "Penthouse",
+    "state": "Querétaro",
+    "city": "Querétaro",
+    "municipality": "Querétaro"
+  },
+  {
+    "title": "Casa en Del Valle, Querétaro",
+    "price": 14581920,
+    "size_m2": 575,
+    "address": "Calle 170, Del Valle, Querétaro",
+    "rooms": 6,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "sótano",
+      "alberca",
+      "cuarto de servicio"
+    ],
+    "type": "Penthouse",
+    "state": "Querétaro",
+    "city": "Querétaro",
+    "municipality": "Querétaro"
+  },
+  {
+    "title": "Casa en Pedregal, León",
+    "price": 900901,
+    "size_m2": 210,
+    "address": "Calle 103, Pedregal, León",
+    "rooms": 6,
+    "bathrooms": 3,
+    "parking_spots": 4,
+    "features": [
+      "bodega",
+      "balcón",
+      "roof garden"
+    ],
+    "type": "Casa",
+    "state": "Guanajuato",
+    "city": "León",
+    "municipality": "León"
+  },
+  {
+    "title": "Casa en Campestre, León",
+    "price": 12500131,
+    "size_m2": 496,
+    "address": "Calle 19, Campestre, León",
+    "rooms": 2,
+    "bathrooms": 4,
+    "parking_spots": 3,
+    "features": [
+      "roof garden",
+      "cuarto de servicio",
+      "balcón"
+    ],
+    "type": "Departamento",
+    "state": "Guanajuato",
+    "city": "León",
+    "municipality": "León"
+  },
+  {
+    "title": "Casa en Centro, León",
+    "price": 12629298,
+    "size_m2": 528,
+    "address": "Calle 16, Centro, León",
+    "rooms": 5,
+    "bathrooms": 5,
+    "parking_spots": 2,
+    "features": [
+      "roof garden",
+      "jardín",
+      "balcón",
+      "terraza"
+    ],
+    "type": "Departamento",
+    "state": "Guanajuato",
+    "city": "León",
+    "municipality": "León"
+  },
+  {
+    "title": "Casa en Pedregal, León",
+    "price": 10045932,
+    "size_m2": 77,
+    "address": "Calle 39, Pedregal, León",
+    "rooms": 3,
+    "bathrooms": 3,
+    "parking_spots": 3,
+    "features": [
+      "roof garden",
+      "balcón",
+      "jardín"
+    ],
+    "type": "Casa en condominio",
+    "state": "Guanajuato",
+    "city": "León",
+    "municipality": "León"
+  },
+  {
+    "title": "Casa en Campestre, León",
+    "price": 12402276,
+    "size_m2": 254,
+    "address": "Calle 5, Campestre, León",
+    "rooms": 4,
+    "bathrooms": 1,
+    "parking_spots": 2,
+    "features": [
+      "sala de TV",
+      "balcón",
+      "cuarto de servicio"
+    ],
+    "type": "Casa",
+    "state": "Guanajuato",
+    "city": "León",
+    "municipality": "León"
+  },
+  {
+    "title": "Casa en Urbano, León",
+    "price": 7464591,
+    "size_m2": 71,
+    "address": "Calle 17, Urbano, León",
+    "rooms": 5,
+    "bathrooms": 4,
+    "parking_spots": 2,
+    "features": [
+      "sala de TV",
+      "sótano",
+      "alberca",
+      "roof garden",
+      "cuarto de servicio"
+    ],
+    "type": "Departamento",
+    "state": "Guanajuato",
+    "city": "León",
+    "municipality": "León"
+  },
+  {
+    "title": "Casa en Pedregal, León",
+    "price": 8670484,
+    "size_m2": 503,
+    "address": "Calle 29, Pedregal, León",
+    "rooms": 3,
+    "bathrooms": 3,
+    "parking_spots": 2,
+    "features": [
+      "balcón",
+      "cuarto de servicio",
+      "sala de TV"
+    ],
+    "type": "Departamento",
+    "state": "Guanajuato",
+    "city": "León",
+    "municipality": "León"
+  },
+  {
+    "title": "Casa en Campestre, León",
+    "price": 12101037,
+    "size_m2": 538,
+    "address": "Calle 76, Campestre, León",
+    "rooms": 3,
+    "bathrooms": 4,
+    "parking_spots": 2,
+    "features": [
+      "alberca",
+      "cuarto de servicio",
+      "balcón",
+      "roof garden"
+    ],
+    "type": "Departamento",
+    "state": "Guanajuato",
+    "city": "León",
+    "municipality": "León"
+  },
+  {
+    "title": "Casa en Pedregal, León",
+    "price": 9822066,
+    "size_m2": 433,
+    "address": "Calle 84, Pedregal, León",
+    "rooms": 3,
+    "bathrooms": 1,
+    "parking_spots": 3,
+    "features": [
+      "terraza",
+      "jardín"
+    ],
+    "type": "Departamento",
+    "state": "Guanajuato",
+    "city": "León",
+    "municipality": "León"
+  },
+  {
+    "title": "Casa en Residencial, León",
+    "price": 11878331,
+    "size_m2": 102,
+    "address": "Calle 113, Residencial, León",
+    "rooms": 2,
+    "bathrooms": 2,
+    "parking_spots": 4,
+    "features": [
+      "patio trasero",
+      "bodega",
+      "cuarto de servicio",
+      "roof garden"
+    ],
+    "type": "Casa",
+    "state": "Guanajuato",
+    "city": "León",
+    "municipality": "León"
+  },
+  {
+    "title": "Casa en Pedregal, Cancún",
+    "price": 4003894,
+    "size_m2": 289,
+    "address": "Calle 84, Pedregal, Cancún",
+    "rooms": 5,
+    "bathrooms": 5,
+    "parking_spots": 0,
+    "features": [
+      "patio trasero",
+      "balcón",
+      "terraza"
+    ],
+    "type": "Penthouse",
+    "state": "Quintana Roo",
+    "city": "Cancún",
+    "municipality": "Cancún"
+  },
+  {
+    "title": "Casa en Bosques, Cancún",
+    "price": 4105536,
+    "size_m2": 327,
+    "address": "Calle 175, Bosques, Cancún",
+    "rooms": 6,
+    "bathrooms": 2,
+    "parking_spots": 0,
+    "features": [
+      "bodega",
+      "balcón"
+    ],
+    "type": "Penthouse",
+    "state": "Quintana Roo",
+    "city": "Cancún",
+    "municipality": "Cancún"
+  },
+  {
+    "title": "Casa en Campestre, Cancún",
+    "price": 10832723,
+    "size_m2": 119,
+    "address": "Calle 61, Campestre, Cancún",
+    "rooms": 3,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "cuarto de servicio",
+      "jardín"
+    ],
+    "type": "Penthouse",
+    "state": "Quintana Roo",
+    "city": "Cancún",
+    "municipality": "Cancún"
+  },
+  {
+    "title": "Casa en Bosques, Cancún",
+    "price": 6395388,
+    "size_m2": 413,
+    "address": "Calle 190, Bosques, Cancún",
+    "rooms": 2,
+    "bathrooms": 2,
+    "parking_spots": 3,
+    "features": [
+      "cuarto de servicio",
+      "terraza"
+    ],
+    "type": "Departamento",
+    "state": "Quintana Roo",
+    "city": "Cancún",
+    "municipality": "Cancún"
+  },
+  {
+    "title": "Casa en Del Valle, Cancún",
+    "price": 14006123,
+    "size_m2": 233,
+    "address": "Calle 199, Del Valle, Cancún",
+    "rooms": 5,
+    "bathrooms": 4,
+    "parking_spots": 0,
+    "features": [
+      "terraza",
+      "alberca",
+      "patio trasero"
+    ],
+    "type": "Casa",
+    "state": "Quintana Roo",
+    "city": "Cancún",
+    "municipality": "Cancún"
+  },
+  {
+    "title": "Casa en Bosques, Cancún",
+    "price": 4270300,
+    "size_m2": 127,
+    "address": "Calle 159, Bosques, Cancún",
+    "rooms": 6,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "sótano",
+      "patio trasero",
+      "roof garden"
+    ],
+    "type": "Casa",
+    "state": "Quintana Roo",
+    "city": "Cancún",
+    "municipality": "Cancún"
+  },
+  {
+    "title": "Casa en Industrial, Cancún",
+    "price": 12007157,
+    "size_m2": 459,
+    "address": "Calle 119, Industrial, Cancún",
+    "rooms": 6,
+    "bathrooms": 5,
+    "parking_spots": 3,
+    "features": [
+      "sala de TV",
+      "balcón",
+      "terraza",
+      "patio trasero"
+    ],
+    "type": "Departamento",
+    "state": "Quintana Roo",
+    "city": "Cancún",
+    "municipality": "Cancún"
+  },
+  {
+    "title": "Casa en Campestre, Cancún",
+    "price": 10702359,
+    "size_m2": 206,
+    "address": "Calle 16, Campestre, Cancún",
+    "rooms": 5,
+    "bathrooms": 4,
+    "parking_spots": 0,
+    "features": [
+      "terraza",
+      "alberca"
+    ],
+    "type": "Departamento",
+    "state": "Quintana Roo",
+    "city": "Cancún",
+    "municipality": "Cancún"
+  },
+  {
+    "title": "Casa en Pedregal, Cancún",
+    "price": 3773466,
+    "size_m2": 89,
+    "address": "Calle 152, Pedregal, Cancún",
+    "rooms": 5,
+    "bathrooms": 2,
+    "parking_spots": 4,
+    "features": [
+      "terraza",
+      "alberca",
+      "sala de TV",
+      "cuarto de servicio",
+      "roof garden"
+    ],
+    "type": "Penthouse",
+    "state": "Quintana Roo",
+    "city": "Cancún",
+    "municipality": "Cancún"
+  },
+  {
+    "title": "Casa en Del Valle, Cancún",
+    "price": 4006809,
+    "size_m2": 243,
+    "address": "Calle 117, Del Valle, Cancún",
+    "rooms": 2,
+    "bathrooms": 2,
+    "parking_spots": 1,
+    "features": [
+      "sótano",
+      "roof garden",
+      "bodega",
+      "cuarto de servicio",
+      "balcón"
+    ],
+    "type": "Casa",
+    "state": "Quintana Roo",
+    "city": "Cancún",
+    "municipality": "Cancún"
+  },
+  {
+    "title": "Casa en Urbano, Puebla",
+    "price": 4918279,
+    "size_m2": 480,
+    "address": "Calle 20, Urbano, Puebla",
+    "rooms": 6,
+    "bathrooms": 2,
+    "parking_spots": 2,
+    "features": [
+      "balcón",
+      "alberca",
+      "cuarto de servicio"
+    ],
+    "type": "Casa en condominio",
+    "state": "Puebla",
+    "city": "Puebla",
+    "municipality": "Puebla"
+  },
+  {
+    "title": "Casa en Centro, Puebla",
+    "price": 6444629,
+    "size_m2": 575,
+    "address": "Calle 191, Centro, Puebla",
+    "rooms": 4,
+    "bathrooms": 5,
+    "parking_spots": 0,
+    "features": [
+      "balcón",
+      "patio trasero",
+      "roof garden"
+    ],
+    "type": "Penthouse",
+    "state": "Puebla",
+    "city": "Puebla",
+    "municipality": "Puebla"
+  },
+  {
+    "title": "Casa en Urbano, Puebla",
+    "price": 14714279,
+    "size_m2": 598,
+    "address": "Calle 111, Urbano, Puebla",
+    "rooms": 5,
+    "bathrooms": 4,
+    "parking_spots": 0,
+    "features": [
+      "alberca",
+      "jardín",
+      "sala de TV",
+      "patio trasero",
+      "sótano"
+    ],
+    "type": "Casa en condominio",
+    "state": "Puebla",
+    "city": "Puebla",
+    "municipality": "Puebla"
+  },
+  {
+    "title": "Casa en Campestre, Puebla",
+    "price": 10782054,
+    "size_m2": 228,
+    "address": "Calle 52, Campestre, Puebla",
+    "rooms": 6,
+    "bathrooms": 4,
+    "parking_spots": 2,
+    "features": [
+      "alberca",
+      "terraza"
+    ],
+    "type": "Departamento",
+    "state": "Puebla",
+    "city": "Puebla",
+    "municipality": "Puebla"
+  },
+  {
+    "title": "Casa en Lomas, Puebla",
+    "price": 11468023,
+    "size_m2": 344,
+    "address": "Calle 34, Lomas, Puebla",
+    "rooms": 6,
+    "bathrooms": 2,
+    "parking_spots": 1,
+    "features": [
+      "balcón",
+      "bodega"
+    ],
+    "type": "Casa",
+    "state": "Puebla",
+    "city": "Puebla",
+    "municipality": "Puebla"
+  },
+  {
+    "title": "Casa en Pedregal, Puebla",
+    "price": 1069469,
+    "size_m2": 298,
+    "address": "Calle 7, Pedregal, Puebla",
+    "rooms": 4,
+    "bathrooms": 1,
+    "parking_spots": 2,
+    "features": [
+      "jardín",
+      "cuarto de servicio",
+      "bodega"
+    ],
+    "type": "Casa",
+    "state": "Puebla",
+    "city": "Puebla",
+    "municipality": "Puebla"
+  },
+  {
+    "title": "Casa en Bosques, Puebla",
+    "price": 14311947,
+    "size_m2": 93,
+    "address": "Calle 38, Bosques, Puebla",
+    "rooms": 6,
+    "bathrooms": 3,
+    "parking_spots": 3,
+    "features": [
+      "jardín",
+      "bodega",
+      "alberca",
+      "roof garden",
+      "terraza"
+    ],
+    "type": "Casa",
+    "state": "Puebla",
+    "city": "Puebla",
+    "municipality": "Puebla"
+  },
+  {
+    "title": "Casa en Bosques, Puebla",
+    "price": 9039977,
+    "size_m2": 236,
+    "address": "Calle 102, Bosques, Puebla",
+    "rooms": 3,
+    "bathrooms": 4,
+    "parking_spots": 3,
+    "features": [
+      "bodega",
+      "sala de TV"
+    ],
+    "type": "Casa",
+    "state": "Puebla",
+    "city": "Puebla",
+    "municipality": "Puebla"
+  },
+  {
+    "title": "Casa en Altavista, Puebla",
+    "price": 6363909,
+    "size_m2": 105,
+    "address": "Calle 1, Altavista, Puebla",
+    "rooms": 5,
+    "bathrooms": 4,
+    "parking_spots": 2,
+    "features": [
+      "balcón",
+      "roof garden",
+      "bodega",
+      "sótano"
+    ],
+    "type": "Departamento",
+    "state": "Puebla",
+    "city": "Puebla",
+    "municipality": "Puebla"
+  },
+  {
+    "title": "Casa en Industrial, Puebla",
+    "price": 5395624,
+    "size_m2": 131,
+    "address": "Calle 160, Industrial, Puebla",
+    "rooms": 5,
+    "bathrooms": 1,
+    "parking_spots": 2,
+    "features": [
+      "patio trasero",
+      "bodega",
+      "jardín",
+      "alberca",
+      "balcón"
+    ],
+    "type": "Penthouse",
+    "state": "Puebla",
+    "city": "Puebla",
+    "municipality": "Puebla"
+  },
+  {
+    "title": "Casa en Pedregal, Cholula",
+    "price": 3284547,
+    "size_m2": 140,
+    "address": "Calle 37, Pedregal, Cholula",
+    "rooms": 3,
+    "bathrooms": 2,
+    "parking_spots": 4,
+    "features": [
+      "alberca",
+      "sótano",
+      "sala de TV",
+      "patio trasero",
+      "roof garden"
+    ],
+    "type": "Penthouse",
+    "state": "Puebla",
+    "city": "San Pedro Cholula",
+    "municipality": "Cholula"
+  },
+  {
+    "title": "Casa en Del Valle, Cholula",
+    "price": 3536862,
+    "size_m2": 168,
+    "address": "Calle 152, Del Valle, Cholula",
+    "rooms": 4,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "sótano",
+      "roof garden",
+      "jardín",
+      "cuarto de servicio"
+    ],
+    "type": "Departamento",
+    "state": "Puebla",
+    "city": "San Pedro Cholula",
+    "municipality": "Cholula"
+  },
+  {
+    "title": "Casa en Residencial, Cholula",
+    "price": 1349379,
+    "size_m2": 217,
+    "address": "Calle 41, Residencial, Cholula",
+    "rooms": 6,
+    "bathrooms": 4,
+    "parking_spots": 1,
+    "features": [
+      "patio trasero",
+      "alberca",
+      "sótano"
+    ],
+    "type": "Casa",
+    "state": "Puebla",
+    "city": "San Pedro Cholula",
+    "municipality": "Cholula"
+  },
+  {
+    "title": "Casa en Del Valle, Cholula",
+    "price": 5372943,
+    "size_m2": 201,
+    "address": "Calle 186, Del Valle, Cholula",
+    "rooms": 4,
+    "bathrooms": 4,
+    "parking_spots": 3,
+    "features": [
+      "sótano",
+      "terraza",
+      "sala de TV",
+      "alberca",
+      "cuarto de servicio"
+    ],
+    "type": "Departamento",
+    "state": "Puebla",
+    "city": "San Pedro Cholula",
+    "municipality": "Cholula"
+  },
+  {
+    "title": "Casa en Bosques, Cholula",
+    "price": 3567909,
+    "size_m2": 105,
+    "address": "Calle 123, Bosques, Cholula",
+    "rooms": 3,
+    "bathrooms": 1,
+    "parking_spots": 1,
+    "features": [
+      "balcón",
+      "cuarto de servicio"
+    ],
+    "type": "Penthouse",
+    "state": "Puebla",
+    "city": "San Pedro Cholula",
+    "municipality": "Cholula"
+  },
+  {
+    "title": "Casa en Pedregal, Cholula",
+    "price": 7320259,
+    "size_m2": 188,
+    "address": "Calle 96, Pedregal, Cholula",
+    "rooms": 4,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "alberca",
+      "sótano"
+    ],
+    "type": "Penthouse",
+    "state": "Puebla",
+    "city": "San Pedro Cholula",
+    "municipality": "Cholula"
+  },
+  {
+    "title": "Casa en Lomas, Cholula",
+    "price": 6144349,
+    "size_m2": 402,
+    "address": "Calle 138, Lomas, Cholula",
+    "rooms": 2,
+    "bathrooms": 4,
+    "parking_spots": 3,
+    "features": [
+      "cuarto de servicio",
+      "balcón",
+      "sótano"
+    ],
+    "type": "Casa en condominio",
+    "state": "Puebla",
+    "city": "San Pedro Cholula",
+    "municipality": "Cholula"
+  },
+  {
+    "title": "Casa en Residencial, Cholula",
+    "price": 2769637,
+    "size_m2": 71,
+    "address": "Calle 160, Residencial, Cholula",
+    "rooms": 4,
+    "bathrooms": 2,
+    "parking_spots": 0,
+    "features": [
+      "terraza",
+      "bodega",
+      "cuarto de servicio",
+      "balcón"
+    ],
+    "type": "Casa",
+    "state": "Puebla",
+    "city": "San Pedro Cholula",
+    "municipality": "Cholula"
+  },
+  {
+    "title": "Casa en Altavista, Cholula",
+    "price": 11971613,
+    "size_m2": 279,
+    "address": "Calle 81, Altavista, Cholula",
+    "rooms": 4,
+    "bathrooms": 4,
+    "parking_spots": 0,
+    "features": [
+      "bodega",
+      "jardín"
+    ],
+    "type": "Casa en condominio",
+    "state": "Puebla",
+    "city": "San Pedro Cholula",
+    "municipality": "Cholula"
+  },
+  {
+    "title": "Casa en Campestre, Cholula",
+    "price": 1502743,
+    "size_m2": 86,
+    "address": "Calle 112, Campestre, Cholula",
+    "rooms": 5,
+    "bathrooms": 5,
+    "parking_spots": 4,
+    "features": [
+      "sala de TV",
+      "sótano",
+      "balcón"
+    ],
+    "type": "Casa",
+    "state": "Puebla",
+    "city": "San Pedro Cholula",
+    "municipality": "Cholula"
+  },
+  {
+    "title": "Casa en Del Valle, Cuernavaca",
+    "price": 12591698,
+    "size_m2": 563,
+    "address": "Calle 18, Del Valle, Cuernavaca",
+    "rooms": 4,
+    "bathrooms": 3,
+    "parking_spots": 2,
+    "features": [
+      "balcón",
+      "roof garden",
+      "sala de TV",
+      "terraza",
+      "patio trasero"
+    ],
+    "type": "Penthouse",
+    "state": "Morelos",
+    "city": "Cuernavaca",
+    "municipality": "Cuernavaca"
+  },
+  {
+    "title": "Casa en Centro, Cuernavaca",
+    "price": 6167909,
+    "size_m2": 446,
+    "address": "Calle 65, Centro, Cuernavaca",
+    "rooms": 3,
+    "bathrooms": 2,
+    "parking_spots": 3,
+    "features": [
+      "jardín",
+      "alberca"
+    ],
+    "type": "Casa en condominio",
+    "state": "Morelos",
+    "city": "Cuernavaca",
+    "municipality": "Cuernavaca"
+  },
+  {
+    "title": "Casa en Urbano, Cuernavaca",
+    "price": 4128804,
+    "size_m2": 98,
+    "address": "Calle 92, Urbano, Cuernavaca",
+    "rooms": 6,
+    "bathrooms": 3,
+    "parking_spots": 0,
+    "features": [
+      "balcón",
+      "terraza",
+      "roof garden",
+      "patio trasero"
+    ],
+    "type": "Casa",
+    "state": "Morelos",
+    "city": "Cuernavaca",
+    "municipality": "Cuernavaca"
+  },
+  {
+    "title": "Casa en Lomas, Cuernavaca",
+    "price": 9173166,
+    "size_m2": 374,
+    "address": "Calle 81, Lomas, Cuernavaca",
+    "rooms": 4,
+    "bathrooms": 1,
+    "parking_spots": 4,
+    "features": [
+      "sótano",
+      "sala de TV"
+    ],
+    "type": "Departamento",
+    "state": "Morelos",
+    "city": "Cuernavaca",
+    "municipality": "Cuernavaca"
+  },
+  {
+    "title": "Casa en Industrial, Cuernavaca",
+    "price": 12542395,
+    "size_m2": 562,
+    "address": "Calle 141, Industrial, Cuernavaca",
+    "rooms": 2,
+    "bathrooms": 4,
+    "parking_spots": 0,
+    "features": [
+      "sala de TV",
+      "jardín",
+      "patio trasero",
+      "balcón"
+    ],
+    "type": "Departamento",
+    "state": "Morelos",
+    "city": "Cuernavaca",
+    "municipality": "Cuernavaca"
+  },
+  {
+    "title": "Casa en Pedregal, Cuernavaca",
+    "price": 11176520,
+    "size_m2": 120,
+    "address": "Calle 157, Pedregal, Cuernavaca",
+    "rooms": 4,
+    "bathrooms": 2,
+    "parking_spots": 2,
+    "features": [
+      "cuarto de servicio",
+      "alberca"
+    ],
+    "type": "Casa",
+    "state": "Morelos",
+    "city": "Cuernavaca",
+    "municipality": "Cuernavaca"
+  },
+  {
+    "title": "Casa en Industrial, Cuernavaca",
+    "price": 6487030,
+    "size_m2": 499,
+    "address": "Calle 96, Industrial, Cuernavaca",
+    "rooms": 2,
+    "bathrooms": 3,
+    "parking_spots": 0,
+    "features": [
+      "bodega",
+      "cuarto de servicio",
+      "sótano",
+      "patio trasero"
+    ],
+    "type": "Casa en condominio",
+    "state": "Morelos",
+    "city": "Cuernavaca",
+    "municipality": "Cuernavaca"
+  },
+  {
+    "title": "Casa en Bosques, Cuernavaca",
+    "price": 2851815,
+    "size_m2": 500,
+    "address": "Calle 158, Bosques, Cuernavaca",
+    "rooms": 5,
+    "bathrooms": 3,
+    "parking_spots": 0,
+    "features": [
+      "sótano",
+      "terraza"
+    ],
+    "type": "Casa",
+    "state": "Morelos",
+    "city": "Cuernavaca",
+    "municipality": "Cuernavaca"
+  },
+  {
+    "title": "Casa en Lomas, Cuernavaca",
+    "price": 14389130,
+    "size_m2": 378,
+    "address": "Calle 24, Lomas, Cuernavaca",
+    "rooms": 6,
+    "bathrooms": 4,
+    "parking_spots": 2,
+    "features": [
+      "sótano",
+      "jardín",
+      "patio trasero"
+    ],
+    "type": "Casa",
+    "state": "Morelos",
+    "city": "Cuernavaca",
+    "municipality": "Cuernavaca"
+  },
+  {
+    "title": "Casa en Bosques, Cuernavaca",
+    "price": 11580305,
+    "size_m2": 159,
+    "address": "Calle 113, Bosques, Cuernavaca",
+    "rooms": 5,
+    "bathrooms": 5,
+    "parking_spots": 3,
+    "features": [
+      "bodega",
+      "jardín",
+      "terraza",
+      "sala de TV"
+    ],
+    "type": "Casa",
+    "state": "Morelos",
+    "city": "Cuernavaca",
+    "municipality": "Cuernavaca"
+  },
+  {
+    "title": "Casa en Industrial, Aguascalientes",
+    "price": 2527685,
+    "size_m2": 404,
+    "address": "Calle 110, Industrial, Aguascalientes",
+    "rooms": 2,
+    "bathrooms": 4,
+    "parking_spots": 0,
+    "features": [
+      "sótano",
+      "roof garden",
+      "balcón",
+      "patio trasero"
+    ],
+    "type": "Penthouse",
+    "state": "Aguascalientes",
+    "city": "Aguascalientes",
+    "municipality": "Aguascalientes"
+  },
+  {
+    "title": "Casa en Altavista, Aguascalientes",
+    "price": 11136172,
+    "size_m2": 546,
+    "address": "Calle 87, Altavista, Aguascalientes",
+    "rooms": 6,
+    "bathrooms": 1,
+    "parking_spots": 1,
+    "features": [
+      "cuarto de servicio",
+      "patio trasero",
+      "balcón",
+      "terraza",
+      "jardín"
+    ],
+    "type": "Casa",
+    "state": "Aguascalientes",
+    "city": "Aguascalientes",
+    "municipality": "Aguascalientes"
+  },
+  {
+    "title": "Casa en Del Valle, Aguascalientes",
+    "price": 5393403,
+    "size_m2": 518,
+    "address": "Calle 69, Del Valle, Aguascalientes",
+    "rooms": 5,
+    "bathrooms": 2,
+    "parking_spots": 4,
+    "features": [
+      "sala de TV",
+      "alberca",
+      "terraza",
+      "bodega"
+    ],
+    "type": "Casa",
+    "state": "Aguascalientes",
+    "city": "Aguascalientes",
+    "municipality": "Aguascalientes"
+  },
+  {
+    "title": "Casa en Industrial, Aguascalientes",
+    "price": 6719065,
+    "size_m2": 424,
+    "address": "Calle 174, Industrial, Aguascalientes",
+    "rooms": 4,
+    "bathrooms": 3,
+    "parking_spots": 2,
+    "features": [
+      "jardín",
+      "cuarto de servicio",
+      "bodega"
+    ],
+    "type": "Departamento",
+    "state": "Aguascalientes",
+    "city": "Aguascalientes",
+    "municipality": "Aguascalientes"
+  },
+  {
+    "title": "Casa en Urbano, Aguascalientes",
+    "price": 6001485,
+    "size_m2": 257,
+    "address": "Calle 188, Urbano, Aguascalientes",
+    "rooms": 3,
+    "bathrooms": 2,
+    "parking_spots": 1,
+    "features": [
+      "roof garden",
+      "balcón"
+    ],
+    "type": "Departamento",
+    "state": "Aguascalientes",
+    "city": "Aguascalientes",
+    "municipality": "Aguascalientes"
+  },
+  {
+    "title": "Casa en Campestre, Aguascalientes",
+    "price": 14495507,
+    "size_m2": 507,
+    "address": "Calle 122, Campestre, Aguascalientes",
+    "rooms": 4,
+    "bathrooms": 3,
+    "parking_spots": 3,
+    "features": [
+      "alberca",
+      "terraza",
+      "bodega"
+    ],
+    "type": "Penthouse",
+    "state": "Aguascalientes",
+    "city": "Aguascalientes",
+    "municipality": "Aguascalientes"
+  },
+  {
+    "title": "Casa en Bosques, Aguascalientes",
+    "price": 12739196,
+    "size_m2": 220,
+    "address": "Calle 15, Bosques, Aguascalientes",
+    "rooms": 4,
+    "bathrooms": 5,
+    "parking_spots": 4,
+    "features": [
+      "roof garden",
+      "alberca",
+      "jardín",
+      "bodega"
+    ],
+    "type": "Departamento",
+    "state": "Aguascalientes",
+    "city": "Aguascalientes",
+    "municipality": "Aguascalientes"
+  },
+  {
+    "title": "Casa en Altavista, Aguascalientes",
+    "price": 10664057,
+    "size_m2": 411,
+    "address": "Calle 189, Altavista, Aguascalientes",
+    "rooms": 6,
+    "bathrooms": 3,
+    "parking_spots": 2,
+    "features": [
+      "terraza",
+      "sótano",
+      "roof garden",
+      "alberca",
+      "cuarto de servicio"
+    ],
+    "type": "Penthouse",
+    "state": "Aguascalientes",
+    "city": "Aguascalientes",
+    "municipality": "Aguascalientes"
+  },
+  {
+    "title": "Casa en Residencial, Aguascalientes",
+    "price": 12765801,
+    "size_m2": 524,
+    "address": "Calle 90, Residencial, Aguascalientes",
+    "rooms": 2,
+    "bathrooms": 2,
+    "parking_spots": 4,
+    "features": [
+      "alberca",
+      "patio trasero",
+      "roof garden",
+      "sótano",
+      "jardín"
+    ],
+    "type": "Casa",
+    "state": "Aguascalientes",
+    "city": "Aguascalientes",
+    "municipality": "Aguascalientes"
+  },
+  {
+    "title": "Casa en Campestre, Aguascalientes",
+    "price": 9398569,
+    "size_m2": 373,
+    "address": "Calle 107, Campestre, Aguascalientes",
+    "rooms": 5,
+    "bathrooms": 4,
+    "parking_spots": 3,
+    "features": [
+      "jardín",
+      "sala de TV",
+      "cuarto de servicio",
+      "roof garden"
+    ],
+    "type": "Departamento",
+    "state": "Aguascalientes",
+    "city": "Aguascalientes",
+    "municipality": "Aguascalientes"
+  },
+  {
+    "title": "Casa en Urbano, Culiacán",
+    "price": 1910216,
+    "size_m2": 504,
+    "address": "Calle 143, Urbano, Culiacán",
+    "rooms": 2,
+    "bathrooms": 1,
+    "parking_spots": 3,
+    "features": [
+      "balcón",
+      "jardín"
+    ],
+    "type": "Casa en condominio",
+    "state": "Sinaloa",
+    "city": "Culiacán",
+    "municipality": "Culiacán"
+  },
+  {
+    "title": "Casa en Campestre, Culiacán",
+    "price": 1624362,
+    "size_m2": 492,
+    "address": "Calle 50, Campestre, Culiacán",
+    "rooms": 5,
+    "bathrooms": 4,
+    "parking_spots": 0,
+    "features": [
+      "sala de TV",
+      "balcón",
+      "roof garden"
+    ],
+    "type": "Penthouse",
+    "state": "Sinaloa",
+    "city": "Culiacán",
+    "municipality": "Culiacán"
+  },
+  {
+    "title": "Casa en Bosques, Culiacán",
+    "price": 2414269,
+    "size_m2": 552,
+    "address": "Calle 42, Bosques, Culiacán",
+    "rooms": 2,
+    "bathrooms": 4,
+    "parking_spots": 2,
+    "features": [
+      "balcón",
+      "alberca",
+      "sala de TV"
+    ],
+    "type": "Casa en condominio",
+    "state": "Sinaloa",
+    "city": "Culiacán",
+    "municipality": "Culiacán"
+  },
+  {
+    "title": "Casa en Industrial, Culiacán",
+    "price": 6324914,
+    "size_m2": 444,
+    "address": "Calle 137, Industrial, Culiacán",
+    "rooms": 4,
+    "bathrooms": 1,
+    "parking_spots": 3,
+    "features": [
+      "sótano",
+      "patio trasero"
+    ],
+    "type": "Casa en condominio",
+    "state": "Sinaloa",
+    "city": "Culiacán",
+    "municipality": "Culiacán"
+  },
+  {
+    "title": "Casa en Campestre, Culiacán",
+    "price": 11505670,
+    "size_m2": 377,
+    "address": "Calle 65, Campestre, Culiacán",
+    "rooms": 4,
+    "bathrooms": 5,
+    "parking_spots": 0,
+    "features": [
+      "balcón",
+      "alberca",
+      "terraza",
+      "bodega",
+      "patio trasero"
+    ],
+    "type": "Departamento",
+    "state": "Sinaloa",
+    "city": "Culiacán",
+    "municipality": "Culiacán"
+  },
+  {
+    "title": "Casa en Lomas, Culiacán",
+    "price": 3559906,
+    "size_m2": 185,
+    "address": "Calle 174, Lomas, Culiacán",
+    "rooms": 2,
+    "bathrooms": 1,
+    "parking_spots": 3,
+    "features": [
+      "sala de TV",
+      "jardín"
+    ],
+    "type": "Casa",
+    "state": "Sinaloa",
+    "city": "Culiacán",
+    "municipality": "Culiacán"
+  },
+  {
+    "title": "Casa en Altavista, Culiacán",
+    "price": 9344855,
+    "size_m2": 110,
+    "address": "Calle 138, Altavista, Culiacán",
+    "rooms": 3,
+    "bathrooms": 2,
+    "parking_spots": 2,
+    "features": [
+      "bodega",
+      "alberca",
+      "cuarto de servicio",
+      "patio trasero"
+    ],
+    "type": "Casa",
+    "state": "Sinaloa",
+    "city": "Culiacán",
+    "municipality": "Culiacán"
+  },
+  {
+    "title": "Casa en Centro, Culiacán",
+    "price": 11264748,
+    "size_m2": 533,
+    "address": "Calle 116, Centro, Culiacán",
+    "rooms": 3,
+    "bathrooms": 4,
+    "parking_spots": 0,
+    "features": [
+      "roof garden",
+      "patio trasero"
+    ],
+    "type": "Casa en condominio",
+    "state": "Sinaloa",
+    "city": "Culiacán",
+    "municipality": "Culiacán"
+  },
+  {
+    "title": "Casa en Urbano, Culiacán",
+    "price": 6584924,
+    "size_m2": 554,
+    "address": "Calle 183, Urbano, Culiacán",
+    "rooms": 3,
+    "bathrooms": 4,
+    "parking_spots": 3,
+    "features": [
+      "sala de TV",
+      "terraza",
+      "jardín",
+      "alberca"
+    ],
+    "type": "Penthouse",
+    "state": "Sinaloa",
+    "city": "Culiacán",
+    "municipality": "Culiacán"
+  },
+  {
+    "title": "Casa en Centro, Culiacán",
+    "price": 12244818,
+    "size_m2": 353,
+    "address": "Calle 103, Centro, Culiacán",
+    "rooms": 4,
+    "bathrooms": 5,
+    "parking_spots": 4,
+    "features": [
+      "bodega",
+      "terraza"
+    ],
+    "type": "Casa en condominio",
+    "state": "Sinaloa",
+    "city": "Culiacán",
+    "municipality": "Culiacán"
+  },
+  {
+    "title": "Casa en Residencial, Hermosillo",
+    "price": 1088698,
+    "size_m2": 236,
+    "address": "Calle 132, Residencial, Hermosillo",
+    "rooms": 5,
+    "bathrooms": 2,
+    "parking_spots": 1,
+    "features": [
+      "cuarto de servicio",
+      "alberca",
+      "balcón"
+    ],
+    "type": "Casa",
+    "state": "Sonora",
+    "city": "Hermosillo",
+    "municipality": "Hermosillo"
+  },
+  {
+    "title": "Casa en Industrial, Hermosillo",
+    "price": 7601963,
+    "size_m2": 551,
+    "address": "Calle 44, Industrial, Hermosillo",
+    "rooms": 5,
+    "bathrooms": 2,
+    "parking_spots": 1,
+    "features": [
+      "terraza",
+      "sótano",
+      "alberca"
+    ],
+    "type": "Departamento",
+    "state": "Sonora",
+    "city": "Hermosillo",
+    "municipality": "Hermosillo"
+  },
+  {
+    "title": "Casa en Industrial, Hermosillo",
+    "price": 3198773,
+    "size_m2": 241,
+    "address": "Calle 9, Industrial, Hermosillo",
+    "rooms": 5,
+    "bathrooms": 2,
+    "parking_spots": 0,
+    "features": [
+      "alberca",
+      "roof garden",
+      "bodega",
+      "sala de TV",
+      "jardín"
+    ],
+    "type": "Penthouse",
+    "state": "Sonora",
+    "city": "Hermosillo",
+    "municipality": "Hermosillo"
+  },
+  {
+    "title": "Casa en Campestre, Hermosillo",
+    "price": 11932391,
+    "size_m2": 143,
+    "address": "Calle 44, Campestre, Hermosillo",
+    "rooms": 5,
+    "bathrooms": 3,
+    "parking_spots": 4,
+    "features": [
+      "jardín",
+      "bodega",
+      "sótano",
+      "alberca"
+    ],
+    "type": "Penthouse",
+    "state": "Sonora",
+    "city": "Hermosillo",
+    "municipality": "Hermosillo"
+  },
+  {
+    "title": "Casa en Campestre, Hermosillo",
+    "price": 13843548,
+    "size_m2": 121,
+    "address": "Calle 124, Campestre, Hermosillo",
+    "rooms": 4,
+    "bathrooms": 2,
+    "parking_spots": 0,
+    "features": [
+      "cuarto de servicio",
+      "sótano",
+      "jardín"
+    ],
+    "type": "Penthouse",
+    "state": "Sonora",
+    "city": "Hermosillo",
+    "municipality": "Hermosillo"
+  },
+  {
+    "title": "Casa en Residencial, Hermosillo",
+    "price": 4435822,
+    "size_m2": 462,
+    "address": "Calle 100, Residencial, Hermosillo",
+    "rooms": 5,
+    "bathrooms": 4,
+    "parking_spots": 3,
+    "features": [
+      "terraza",
+      "jardín"
+    ],
+    "type": "Casa",
+    "state": "Sonora",
+    "city": "Hermosillo",
+    "municipality": "Hermosillo"
+  },
+  {
+    "title": "Casa en Urbano, Hermosillo",
+    "price": 10194957,
+    "size_m2": 423,
+    "address": "Calle 19, Urbano, Hermosillo",
+    "rooms": 5,
+    "bathrooms": 1,
+    "parking_spots": 2,
+    "features": [
+      "sótano",
+      "sala de TV",
+      "roof garden",
+      "alberca"
+    ],
+    "type": "Casa en condominio",
+    "state": "Sonora",
+    "city": "Hermosillo",
+    "municipality": "Hermosillo"
+  },
+  {
+    "title": "Casa en Centro, Hermosillo",
+    "price": 9800851,
+    "size_m2": 357,
+    "address": "Calle 198, Centro, Hermosillo",
+    "rooms": 5,
+    "bathrooms": 1,
+    "parking_spots": 3,
+    "features": [
+      "sala de TV",
+      "cuarto de servicio",
+      "balcón",
+      "bodega"
+    ],
+    "type": "Casa",
+    "state": "Sonora",
+    "city": "Hermosillo",
+    "municipality": "Hermosillo"
+  },
+  {
+    "title": "Casa en Industrial, Hermosillo",
+    "price": 12676721,
+    "size_m2": 118,
+    "address": "Calle 126, Industrial, Hermosillo",
+    "rooms": 6,
+    "bathrooms": 1,
+    "parking_spots": 4,
+    "features": [
+      "sala de TV",
+      "bodega",
+      "patio trasero",
+      "roof garden"
+    ],
+    "type": "Casa",
+    "state": "Sonora",
+    "city": "Hermosillo",
+    "municipality": "Hermosillo"
+  },
+  {
+    "title": "Casa en Pedregal, Hermosillo",
+    "price": 5769027,
+    "size_m2": 292,
+    "address": "Calle 157, Pedregal, Hermosillo",
+    "rooms": 5,
+    "bathrooms": 2,
+    "parking_spots": 2,
+    "features": [
+      "sala de TV",
+      "alberca",
+      "bodega",
+      "patio trasero"
+    ],
+    "type": "Casa en condominio",
+    "state": "Sonora",
+    "city": "Hermosillo",
+    "municipality": "Hermosillo"
+  },
+  {
+    "title": "Casa en Altavista, Mexicali",
+    "price": 13382779,
+    "size_m2": 454,
+    "address": "Calle 187, Altavista, Mexicali",
+    "rooms": 5,
+    "bathrooms": 3,
+    "parking_spots": 3,
+    "features": [
+      "cuarto de servicio",
+      "sótano",
+      "patio trasero"
+    ],
+    "type": "Departamento",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "municipality": "Mexicali"
+  },
+  {
+    "title": "Casa en Bosques, Mexicali",
+    "price": 8383715,
+    "size_m2": 283,
+    "address": "Calle 141, Bosques, Mexicali",
+    "rooms": 5,
+    "bathrooms": 3,
+    "parking_spots": 2,
+    "features": [
+      "jardín",
+      "patio trasero"
+    ],
+    "type": "Penthouse",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "municipality": "Mexicali"
+  },
+  {
+    "title": "Casa en Del Valle, Mexicali",
+    "price": 5829969,
+    "size_m2": 90,
+    "address": "Calle 119, Del Valle, Mexicali",
+    "rooms": 4,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "patio trasero",
+      "sala de TV",
+      "roof garden",
+      "jardín"
+    ],
+    "type": "Penthouse",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "municipality": "Mexicali"
+  },
+  {
+    "title": "Casa en Altavista, Mexicali",
+    "price": 12339689,
+    "size_m2": 256,
+    "address": "Calle 83, Altavista, Mexicali",
+    "rooms": 2,
+    "bathrooms": 5,
+    "parking_spots": 1,
+    "features": [
+      "terraza",
+      "sótano",
+      "balcón"
+    ],
+    "type": "Departamento",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "municipality": "Mexicali"
+  },
+  {
+    "title": "Casa en Industrial, Mexicali",
+    "price": 5405430,
+    "size_m2": 368,
+    "address": "Calle 13, Industrial, Mexicali",
+    "rooms": 2,
+    "bathrooms": 5,
+    "parking_spots": 4,
+    "features": [
+      "roof garden",
+      "patio trasero"
+    ],
+    "type": "Casa en condominio",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "municipality": "Mexicali"
+  },
+  {
+    "title": "Casa en Campestre, Mexicali",
+    "price": 5718303,
+    "size_m2": 529,
+    "address": "Calle 100, Campestre, Mexicali",
+    "rooms": 6,
+    "bathrooms": 5,
+    "parking_spots": 2,
+    "features": [
+      "alberca",
+      "terraza"
+    ],
+    "type": "Casa",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "municipality": "Mexicali"
+  },
+  {
+    "title": "Casa en Del Valle, Mexicali",
+    "price": 3560992,
+    "size_m2": 150,
+    "address": "Calle 86, Del Valle, Mexicali",
+    "rooms": 4,
+    "bathrooms": 1,
+    "parking_spots": 0,
+    "features": [
+      "balcón",
+      "alberca",
+      "cuarto de servicio"
+    ],
+    "type": "Casa en condominio",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "municipality": "Mexicali"
+  },
+  {
+    "title": "Casa en Altavista, Mexicali",
+    "price": 2449256,
+    "size_m2": 359,
+    "address": "Calle 31, Altavista, Mexicali",
+    "rooms": 5,
+    "bathrooms": 3,
+    "parking_spots": 0,
+    "features": [
+      "terraza",
+      "sótano"
+    ],
+    "type": "Departamento",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "municipality": "Mexicali"
+  },
+  {
+    "title": "Casa en Bosques, Mexicali",
+    "price": 1364161,
+    "size_m2": 306,
+    "address": "Calle 66, Bosques, Mexicali",
+    "rooms": 4,
+    "bathrooms": 1,
+    "parking_spots": 0,
+    "features": [
+      "patio trasero",
+      "sala de TV"
+    ],
+    "type": "Departamento",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "municipality": "Mexicali"
+  },
+  {
+    "title": "Casa en Residencial, Mexicali",
+    "price": 3736517,
+    "size_m2": 192,
+    "address": "Calle 154, Residencial, Mexicali",
+    "rooms": 4,
+    "bathrooms": 3,
+    "parking_spots": 2,
+    "features": [
+      "sótano",
+      "alberca",
+      "terraza"
+    ],
+    "type": "Casa en condominio",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "municipality": "Mexicali"
+  },
+  {
+    "title": "Casa en Bosques, Tijuana",
+    "price": 6515045,
+    "size_m2": 131,
+    "address": "Calle 1, Bosques, Tijuana",
+    "rooms": 4,
+    "bathrooms": 4,
+    "parking_spots": 3,
+    "features": [
+      "jardín",
+      "balcón"
+    ],
+    "type": "Departamento",
+    "state": "Baja California",
+    "city": "Tijuana",
+    "municipality": "Tijuana"
+  },
+  {
+    "title": "Casa en Altavista, Tijuana",
+    "price": 8295730,
+    "size_m2": 241,
+    "address": "Calle 93, Altavista, Tijuana",
+    "rooms": 3,
+    "bathrooms": 4,
+    "parking_spots": 0,
+    "features": [
+      "bodega",
+      "jardín",
+      "roof garden",
+      "balcón",
+      "terraza"
+    ],
+    "type": "Penthouse",
+    "state": "Baja California",
+    "city": "Tijuana",
+    "municipality": "Tijuana"
+  },
+  {
+    "title": "Casa en Centro, Tijuana",
+    "price": 14297514,
+    "size_m2": 484,
+    "address": "Calle 18, Centro, Tijuana",
+    "rooms": 4,
+    "bathrooms": 1,
+    "parking_spots": 2,
+    "features": [
+      "roof garden",
+      "bodega",
+      "sótano",
+      "sala de TV"
+    ],
+    "type": "Penthouse",
+    "state": "Baja California",
+    "city": "Tijuana",
+    "municipality": "Tijuana"
+  },
+  {
+    "title": "Casa en Campestre, Tijuana",
+    "price": 4943586,
+    "size_m2": 147,
+    "address": "Calle 92, Campestre, Tijuana",
+    "rooms": 6,
+    "bathrooms": 2,
+    "parking_spots": 2,
+    "features": [
+      "jardín",
+      "sótano",
+      "roof garden"
+    ],
+    "type": "Departamento",
+    "state": "Baja California",
+    "city": "Tijuana",
+    "municipality": "Tijuana"
+  },
+  {
+    "title": "Casa en Pedregal, Tijuana",
+    "price": 12744682,
+    "size_m2": 520,
+    "address": "Calle 157, Pedregal, Tijuana",
+    "rooms": 4,
+    "bathrooms": 2,
+    "parking_spots": 2,
+    "features": [
+      "patio trasero",
+      "terraza",
+      "cuarto de servicio",
+      "balcón",
+      "alberca"
+    ],
+    "type": "Casa",
+    "state": "Baja California",
+    "city": "Tijuana",
+    "municipality": "Tijuana"
+  },
+  {
+    "title": "Casa en Altavista, Tijuana",
+    "price": 8317971,
+    "size_m2": 154,
+    "address": "Calle 117, Altavista, Tijuana",
+    "rooms": 6,
+    "bathrooms": 5,
+    "parking_spots": 2,
+    "features": [
+      "jardín",
+      "roof garden",
+      "bodega",
+      "terraza"
+    ],
+    "type": "Penthouse",
+    "state": "Baja California",
+    "city": "Tijuana",
+    "municipality": "Tijuana"
+  },
+  {
+    "title": "Casa en Industrial, Tijuana",
+    "price": 7652196,
+    "size_m2": 211,
+    "address": "Calle 50, Industrial, Tijuana",
+    "rooms": 5,
+    "bathrooms": 2,
+    "parking_spots": 4,
+    "features": [
+      "bodega",
+      "sótano",
+      "patio trasero",
+      "balcón",
+      "terraza"
+    ],
+    "type": "Casa",
+    "state": "Baja California",
+    "city": "Tijuana",
+    "municipality": "Tijuana"
+  },
+  {
+    "title": "Casa en Lomas, Tijuana",
+    "price": 12335296,
+    "size_m2": 350,
+    "address": "Calle 97, Lomas, Tijuana",
+    "rooms": 6,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "terraza",
+      "cuarto de servicio"
+    ],
+    "type": "Casa en condominio",
+    "state": "Baja California",
+    "city": "Tijuana",
+    "municipality": "Tijuana"
+  },
+  {
+    "title": "Casa en Bosques, Tijuana",
+    "price": 4421637,
+    "size_m2": 402,
+    "address": "Calle 69, Bosques, Tijuana",
+    "rooms": 6,
+    "bathrooms": 4,
+    "parking_spots": 3,
+    "features": [
+      "sala de TV",
+      "balcón",
+      "patio trasero",
+      "roof garden"
+    ],
+    "type": "Penthouse",
+    "state": "Baja California",
+    "city": "Tijuana",
+    "municipality": "Tijuana"
+  },
+  {
+    "title": "Casa en Del Valle, Tijuana",
+    "price": 3141728,
+    "size_m2": 236,
+    "address": "Calle 122, Del Valle, Tijuana",
+    "rooms": 5,
+    "bathrooms": 1,
+    "parking_spots": 0,
+    "features": [
+      "terraza",
+      "sala de TV"
+    ],
+    "type": "Casa en condominio",
+    "state": "Baja California",
+    "city": "Tijuana",
+    "municipality": "Tijuana"
+  },
+  {
+    "title": "Casa en Altavista, Saltillo",
+    "price": 10299853,
+    "size_m2": 156,
+    "address": "Calle 67, Altavista, Saltillo",
+    "rooms": 6,
+    "bathrooms": 4,
+    "parking_spots": 1,
+    "features": [
+      "sala de TV",
+      "alberca"
+    ],
+    "type": "Penthouse",
+    "state": "Coahuila",
+    "city": "Saltillo",
+    "municipality": "Saltillo"
+  },
+  {
+    "title": "Casa en Lomas, Saltillo",
+    "price": 1320610,
+    "size_m2": 428,
+    "address": "Calle 106, Lomas, Saltillo",
+    "rooms": 6,
+    "bathrooms": 1,
+    "parking_spots": 3,
+    "features": [
+      "balcón",
+      "patio trasero",
+      "sala de TV"
+    ],
+    "type": "Penthouse",
+    "state": "Coahuila",
+    "city": "Saltillo",
+    "municipality": "Saltillo"
+  },
+  {
+    "title": "Casa en Urbano, Saltillo",
+    "price": 9771959,
+    "size_m2": 252,
+    "address": "Calle 89, Urbano, Saltillo",
+    "rooms": 5,
+    "bathrooms": 2,
+    "parking_spots": 2,
+    "features": [
+      "sala de TV",
+      "roof garden"
+    ],
+    "type": "Casa",
+    "state": "Coahuila",
+    "city": "Saltillo",
+    "municipality": "Saltillo"
+  },
+  {
+    "title": "Casa en Pedregal, Saltillo",
+    "price": 11904844,
+    "size_m2": 311,
+    "address": "Calle 92, Pedregal, Saltillo",
+    "rooms": 6,
+    "bathrooms": 4,
+    "parking_spots": 3,
+    "features": [
+      "alberca",
+      "sala de TV",
+      "bodega",
+      "balcón"
+    ],
+    "type": "Departamento",
+    "state": "Coahuila",
+    "city": "Saltillo",
+    "municipality": "Saltillo"
+  },
+  {
+    "title": "Casa en Campestre, Saltillo",
+    "price": 13190505,
+    "size_m2": 439,
+    "address": "Calle 118, Campestre, Saltillo",
+    "rooms": 5,
+    "bathrooms": 4,
+    "parking_spots": 2,
+    "features": [
+      "patio trasero",
+      "roof garden",
+      "sótano",
+      "cuarto de servicio"
+    ],
+    "type": "Casa en condominio",
+    "state": "Coahuila",
+    "city": "Saltillo",
+    "municipality": "Saltillo"
+  },
+  {
+    "title": "Casa en Centro, Saltillo",
+    "price": 11255013,
+    "size_m2": 320,
+    "address": "Calle 78, Centro, Saltillo",
+    "rooms": 4,
+    "bathrooms": 2,
+    "parking_spots": 2,
+    "features": [
+      "roof garden",
+      "patio trasero"
+    ],
+    "type": "Penthouse",
+    "state": "Coahuila",
+    "city": "Saltillo",
+    "municipality": "Saltillo"
+  },
+  {
+    "title": "Casa en Urbano, Saltillo",
+    "price": 12511287,
+    "size_m2": 237,
+    "address": "Calle 149, Urbano, Saltillo",
+    "rooms": 3,
+    "bathrooms": 2,
+    "parking_spots": 0,
+    "features": [
+      "sótano",
+      "cuarto de servicio"
+    ],
+    "type": "Departamento",
+    "state": "Coahuila",
+    "city": "Saltillo",
+    "municipality": "Saltillo"
+  },
+  {
+    "title": "Casa en Residencial, Saltillo",
+    "price": 5372170,
+    "size_m2": 153,
+    "address": "Calle 14, Residencial, Saltillo",
+    "rooms": 4,
+    "bathrooms": 2,
+    "parking_spots": 3,
+    "features": [
+      "patio trasero",
+      "balcón",
+      "alberca",
+      "bodega",
+      "jardín"
+    ],
+    "type": "Departamento",
+    "state": "Coahuila",
+    "city": "Saltillo",
+    "municipality": "Saltillo"
+  },
+  {
+    "title": "Casa en Industrial, Saltillo",
+    "price": 9321430,
+    "size_m2": 126,
+    "address": "Calle 126, Industrial, Saltillo",
+    "rooms": 2,
+    "bathrooms": 2,
+    "parking_spots": 3,
+    "features": [
+      "patio trasero",
+      "bodega",
+      "jardín",
+      "roof garden",
+      "sala de TV"
+    ],
+    "type": "Departamento",
+    "state": "Coahuila",
+    "city": "Saltillo",
+    "municipality": "Saltillo"
+  },
+  {
+    "title": "Casa en Urbano, Saltillo",
+    "price": 12229398,
+    "size_m2": 400,
+    "address": "Calle 152, Urbano, Saltillo",
+    "rooms": 6,
+    "bathrooms": 2,
+    "parking_spots": 3,
+    "features": [
+      "sala de TV",
+      "terraza",
+      "sótano",
+      "jardín"
+    ],
+    "type": "Casa",
+    "state": "Coahuila",
+    "city": "Saltillo",
+    "municipality": "Saltillo"
+  },
+  {
+    "title": "Casa en Centro, Torreón",
+    "price": 12060311,
+    "size_m2": 511,
+    "address": "Calle 183, Centro, Torreón",
+    "rooms": 2,
+    "bathrooms": 3,
+    "parking_spots": 0,
+    "features": [
+      "cuarto de servicio",
+      "roof garden",
+      "patio trasero"
+    ],
+    "type": "Penthouse",
+    "state": "Coahuila",
+    "city": "Torreón",
+    "municipality": "Torreón"
+  },
+  {
+    "title": "Casa en Bosques, Torreón",
+    "price": 4672276,
+    "size_m2": 165,
+    "address": "Calle 111, Bosques, Torreón",
+    "rooms": 3,
+    "bathrooms": 2,
+    "parking_spots": 3,
+    "features": [
+      "bodega",
+      "balcón",
+      "alberca",
+      "sótano"
+    ],
+    "type": "Casa en condominio",
+    "state": "Coahuila",
+    "city": "Torreón",
+    "municipality": "Torreón"
+  },
+  {
+    "title": "Casa en Centro, Torreón",
+    "price": 3665754,
+    "size_m2": 441,
+    "address": "Calle 25, Centro, Torreón",
+    "rooms": 3,
+    "bathrooms": 4,
+    "parking_spots": 4,
+    "features": [
+      "terraza",
+      "sala de TV"
+    ],
+    "type": "Casa",
+    "state": "Coahuila",
+    "city": "Torreón",
+    "municipality": "Torreón"
+  },
+  {
+    "title": "Casa en Centro, Torreón",
+    "price": 10549024,
+    "size_m2": 484,
+    "address": "Calle 34, Centro, Torreón",
+    "rooms": 4,
+    "bathrooms": 2,
+    "parking_spots": 0,
+    "features": [
+      "roof garden",
+      "cuarto de servicio",
+      "sala de TV",
+      "jardín"
+    ],
+    "type": "Casa en condominio",
+    "state": "Coahuila",
+    "city": "Torreón",
+    "municipality": "Torreón"
+  },
+  {
+    "title": "Casa en Pedregal, Torreón",
+    "price": 10051776,
+    "size_m2": 152,
+    "address": "Calle 139, Pedregal, Torreón",
+    "rooms": 3,
+    "bathrooms": 1,
+    "parking_spots": 1,
+    "features": [
+      "patio trasero",
+      "sala de TV",
+      "alberca",
+      "balcón"
+    ],
+    "type": "Departamento",
+    "state": "Coahuila",
+    "city": "Torreón",
+    "municipality": "Torreón"
+  },
+  {
+    "title": "Casa en Pedregal, Torreón",
+    "price": 11527106,
+    "size_m2": 320,
+    "address": "Calle 26, Pedregal, Torreón",
+    "rooms": 6,
+    "bathrooms": 3,
+    "parking_spots": 2,
+    "features": [
+      "roof garden",
+      "jardín"
+    ],
+    "type": "Departamento",
+    "state": "Coahuila",
+    "city": "Torreón",
+    "municipality": "Torreón"
+  },
+  {
+    "title": "Casa en Del Valle, Torreón",
+    "price": 13824687,
+    "size_m2": 97,
+    "address": "Calle 106, Del Valle, Torreón",
+    "rooms": 6,
+    "bathrooms": 2,
+    "parking_spots": 3,
+    "features": [
+      "balcón",
+      "terraza",
+      "sala de TV",
+      "sótano"
+    ],
+    "type": "Casa en condominio",
+    "state": "Coahuila",
+    "city": "Torreón",
+    "municipality": "Torreón"
+  },
+  {
+    "title": "Casa en Campestre, Torreón",
+    "price": 2368436,
+    "size_m2": 489,
+    "address": "Calle 94, Campestre, Torreón",
+    "rooms": 3,
+    "bathrooms": 3,
+    "parking_spots": 2,
+    "features": [
+      "patio trasero",
+      "roof garden"
+    ],
+    "type": "Casa en condominio",
+    "state": "Coahuila",
+    "city": "Torreón",
+    "municipality": "Torreón"
+  },
+  {
+    "title": "Casa en Del Valle, Torreón",
+    "price": 6677455,
+    "size_m2": 142,
+    "address": "Calle 45, Del Valle, Torreón",
+    "rooms": 2,
+    "bathrooms": 5,
+    "parking_spots": 2,
+    "features": [
+      "patio trasero",
+      "terraza",
+      "sótano"
+    ],
+    "type": "Casa",
+    "state": "Coahuila",
+    "city": "Torreón",
+    "municipality": "Torreón"
+  },
+  {
+    "title": "Casa en Pedregal, Torreón",
+    "price": 5930618,
+    "size_m2": 327,
+    "address": "Calle 168, Pedregal, Torreón",
+    "rooms": 3,
+    "bathrooms": 4,
+    "parking_spots": 0,
+    "features": [
+      "sala de TV",
+      "patio trasero",
+      "sótano"
+    ],
+    "type": "Casa en condominio",
+    "state": "Coahuila",
+    "city": "Torreón",
+    "municipality": "Torreón"
+  },
+  {
+    "title": "Casa en Industrial, Chihuahua",
+    "price": 6673882,
+    "size_m2": 262,
+    "address": "Calle 14, Industrial, Chihuahua",
+    "rooms": 3,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "roof garden",
+      "alberca",
+      "cuarto de servicio",
+      "jardín",
+      "sótano"
+    ],
+    "type": "Casa en condominio",
+    "state": "Chihuahua",
+    "city": "Chihuahua",
+    "municipality": "Chihuahua"
+  },
+  {
+    "title": "Casa en Industrial, Chihuahua",
+    "price": 9815121,
+    "size_m2": 252,
+    "address": "Calle 92, Industrial, Chihuahua",
+    "rooms": 5,
+    "bathrooms": 1,
+    "parking_spots": 4,
+    "features": [
+      "alberca",
+      "cuarto de servicio",
+      "roof garden",
+      "terraza"
+    ],
+    "type": "Casa",
+    "state": "Chihuahua",
+    "city": "Chihuahua",
+    "municipality": "Chihuahua"
+  },
+  {
+    "title": "Casa en Bosques, Chihuahua",
+    "price": 9527622,
+    "size_m2": 215,
+    "address": "Calle 94, Bosques, Chihuahua",
+    "rooms": 5,
+    "bathrooms": 1,
+    "parking_spots": 0,
+    "features": [
+      "balcón",
+      "roof garden",
+      "bodega"
+    ],
+    "type": "Casa en condominio",
+    "state": "Chihuahua",
+    "city": "Chihuahua",
+    "municipality": "Chihuahua"
+  },
+  {
+    "title": "Casa en Industrial, Chihuahua",
+    "price": 5247127,
+    "size_m2": 202,
+    "address": "Calle 26, Industrial, Chihuahua",
+    "rooms": 6,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "cuarto de servicio",
+      "jardín",
+      "sótano"
+    ],
+    "type": "Departamento",
+    "state": "Chihuahua",
+    "city": "Chihuahua",
+    "municipality": "Chihuahua"
+  },
+  {
+    "title": "Casa en Bosques, Chihuahua",
+    "price": 11063085,
+    "size_m2": 111,
+    "address": "Calle 22, Bosques, Chihuahua",
+    "rooms": 4,
+    "bathrooms": 3,
+    "parking_spots": 2,
+    "features": [
+      "sala de TV",
+      "patio trasero",
+      "bodega",
+      "alberca"
+    ],
+    "type": "Penthouse",
+    "state": "Chihuahua",
+    "city": "Chihuahua",
+    "municipality": "Chihuahua"
+  },
+  {
+    "title": "Casa en Del Valle, Chihuahua",
+    "price": 13945900,
+    "size_m2": 375,
+    "address": "Calle 87, Del Valle, Chihuahua",
+    "rooms": 5,
+    "bathrooms": 5,
+    "parking_spots": 4,
+    "features": [
+      "cuarto de servicio",
+      "balcón",
+      "terraza"
+    ],
+    "type": "Casa en condominio",
+    "state": "Chihuahua",
+    "city": "Chihuahua",
+    "municipality": "Chihuahua"
+  },
+  {
+    "title": "Casa en Pedregal, Chihuahua",
+    "price": 1309206,
+    "size_m2": 77,
+    "address": "Calle 1, Pedregal, Chihuahua",
+    "rooms": 4,
+    "bathrooms": 3,
+    "parking_spots": 0,
+    "features": [
+      "sótano",
+      "bodega",
+      "patio trasero",
+      "cuarto de servicio",
+      "sala de TV"
+    ],
+    "type": "Departamento",
+    "state": "Chihuahua",
+    "city": "Chihuahua",
+    "municipality": "Chihuahua"
+  },
+  {
+    "title": "Casa en Altavista, Chihuahua",
+    "price": 12888040,
+    "size_m2": 100,
+    "address": "Calle 141, Altavista, Chihuahua",
+    "rooms": 4,
+    "bathrooms": 4,
+    "parking_spots": 1,
+    "features": [
+      "alberca",
+      "balcón",
+      "sótano",
+      "bodega",
+      "roof garden"
+    ],
+    "type": "Casa en condominio",
+    "state": "Chihuahua",
+    "city": "Chihuahua",
+    "municipality": "Chihuahua"
+  },
+  {
+    "title": "Casa en Bosques, Chihuahua",
+    "price": 14373083,
+    "size_m2": 96,
+    "address": "Calle 187, Bosques, Chihuahua",
+    "rooms": 5,
+    "bathrooms": 2,
+    "parking_spots": 1,
+    "features": [
+      "sótano",
+      "patio trasero"
+    ],
+    "type": "Departamento",
+    "state": "Chihuahua",
+    "city": "Chihuahua",
+    "municipality": "Chihuahua"
+  },
+  {
+    "title": "Casa en Residencial, Chihuahua",
+    "price": 10593464,
+    "size_m2": 60,
+    "address": "Calle 138, Residencial, Chihuahua",
+    "rooms": 4,
+    "bathrooms": 2,
+    "parking_spots": 0,
+    "features": [
+      "cuarto de servicio",
+      "balcón",
+      "patio trasero"
+    ],
+    "type": "Casa",
+    "state": "Chihuahua",
+    "city": "Chihuahua",
+    "municipality": "Chihuahua"
+  }
+]
