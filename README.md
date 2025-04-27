@@ -3,6 +3,10 @@
 
 Este es un proyecto [Next.js](https://nextjs.org) creado con [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Demo en Vivo
+
+Puedes probar la aplicación en vivo en: [https://homefinderpro.netlify.app/](https://homefinderpro.netlify.app/)
+
 ## Descripción
 
 SmartHome Finder es una aplicación web que permite a los usuarios buscar propiedades inmobiliarias utilizando lenguaje natural. La aplicación analiza las consultas del usuario y filtra las propiedades según criterios específicos como ubicación, características, precio, tamaño, número de habitaciones, baños y estacionamientos.
