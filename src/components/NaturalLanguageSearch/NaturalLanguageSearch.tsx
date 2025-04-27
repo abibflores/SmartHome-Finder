@@ -2,6 +2,7 @@
 import { useState } from "react";
 import { House } from "@/components/HouseCard/types";
 import { HouseCard } from "@/components/HouseCard/HouseCard";
+import { HouseCardSkeleton } from "@/components/HouseCard/HouseCardSkeleton";
 
 export const NaturalLanguageSearch = () => {
   const [query, setQuery] = useState("");
@@ -83,8 +84,23 @@ export const NaturalLanguageSearch = () => {
         </div>
       )}
 
-      {/* Mostrar resultados */}
-      {hasSearched && (
+      {/* Mostrar skeletons mientras se cargan los resultados */}
+      {isSearching && (
+        <div className="mt-8">
+          <h2 className="text-2xl font-bold mb-4 animate-pulse">
+            <div className="h-8 bg-gray-300 rounded w-1/2"></div>
+          </h2>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {[...Array(3)].map((_, index) => (
+              <HouseCardSkeleton key={index} />
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* Mostrar resultados cuando la búsqueda ha terminado */}
+      {hasSearched && !isSearching && (
         <div className="mt-8">
           <h2 className="text-2xl font-bold mb-4">
             {results.length > 0 
