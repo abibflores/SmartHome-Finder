@@ -15,12 +15,14 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    const results = await searchHousesByNaturalLanguage(query, housesData);
+    const { results, searchCriteria, explanation } = await searchHousesByNaturalLanguage(query, housesData);
 
     return NextResponse.json({
       query,
       count: results.length,
-      results
+      results,
+      searchCriteria,
+      explanation,
     });
   } catch (error) {
     console.error('Error al procesar la búsqueda:', error);
