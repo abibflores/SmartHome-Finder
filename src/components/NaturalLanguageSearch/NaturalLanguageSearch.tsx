@@ -3,6 +3,7 @@ import { useState } from "react";
 import { House } from "@/components/HouseCard/types";
 import { HouseCard } from "@/components/HouseCard/HouseCard";
 import { HouseCardSkeleton } from "@/components/HouseCard/HouseCardSkeleton";
+import { SearchExplanation } from "@/components/SearchExplanation";
 
 export const NaturalLanguageSearch = () => {
   const [query, setQuery] = useState("");
@@ -10,6 +11,7 @@ export const NaturalLanguageSearch = () => {
   const [results, setResults] = useState<House[]>([]);
   const [error, setError] = useState<string | null>(null);
   const [hasSearched, setHasSearched] = useState(false);
+  const [explanation, setExplanation] = useState<string>("");
 
   const handleSearch = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -17,6 +19,7 @@ export const NaturalLanguageSearch = () => {
     
     setIsSearching(true);
     setError(null);
+    setExplanation("");
     
     try {
       const response = await fetch(`/api/search?q=${encodeURIComponent(query)}`);
@@ -27,6 +30,7 @@ export const NaturalLanguageSearch = () => {
       }
       
       setResults(data.results);
+      setExplanation(data.explanation || "");
       setHasSearched(true);
     } catch (err) {
       console.error('Error en la búsqueda:', err);
@@ -83,6 +87,12 @@ export const NaturalLanguageSearch = () => {
           {error}
         </div>
       )}
+
+      {/* Mostrar explicación de la búsqueda */}
+      <SearchExplanation 
+        explanation={explanation} 
+        isLoading={isSearching} 
+      />
 
       {/* Mostrar skeletons mientras se cargan los resultados */}
       {isSearching && (
