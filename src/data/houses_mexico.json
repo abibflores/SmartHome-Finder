@@ -1,24 +1,5 @@
 [
   {
-    "title": "Casa en Residencial, Toluca",
-    "price": 3450000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 2,
-    "bathrooms": 1,
-    "parking_spots": 1,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
-  {
     "title": "Casa en Campestre, Metepec",
     "price": 9962385,
     "size_m2": 567,
@@ -27,25 +8,6 @@
     "bathrooms": 1,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "patio trasero",
       "terraza",
@@ -66,25 +28,6 @@
     "bathrooms": 4,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "bodega",
       "jardín",
@@ -105,25 +48,6 @@
     "bathrooms": 4,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "alberca",
       "roof garden",
@@ -143,25 +67,6 @@
     "bathrooms": 3,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "sótano",
       "roof garden",
@@ -181,25 +86,6 @@
     "bathrooms": 5,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "sótano",
       "roof garden",
@@ -220,25 +106,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "sala de TV",
       "balcón"
@@ -257,25 +124,6 @@
     "bathrooms": 5,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "cuarto de servicio",
       "balcón",
@@ -295,25 +143,6 @@
     "bathrooms": 1,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "cuarto de servicio"
     ],
@@ -331,25 +160,6 @@
     "bathrooms": 2,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "patio trasero"
     ],
@@ -367,25 +177,6 @@
     "bathrooms": 5,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "bodega",
       "sótano",
@@ -405,25 +196,6 @@
     "bathrooms": 4,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "bodega",
       "alberca"
@@ -442,25 +214,6 @@
     "bathrooms": 5,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "bodega"
     ],
@@ -478,25 +231,6 @@
     "bathrooms": 5,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "patio trasero",
       "jardín"
@@ -515,25 +249,6 @@
     "bathrooms": 2,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "roof garden",
       "sótano",
@@ -554,25 +269,6 @@
     "bathrooms": 4,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "bodega",
       "cuarto de servicio",
@@ -593,25 +289,6 @@
     "bathrooms": 1,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "bodega",
       "terraza",
@@ -631,25 +308,6 @@
     "bathrooms": 1,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "jardín"
     ],
@@ -667,25 +325,6 @@
     "bathrooms": 4,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "patio trasero"
     ],
@@ -703,25 +342,6 @@
     "bathrooms": 4,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "bodega",
       "alberca",
@@ -742,25 +362,6 @@
     "bathrooms": 3,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "alberca",
       "bodega",
@@ -780,25 +381,6 @@
     "bathrooms": 2,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "cuarto de servicio"
     ],
@@ -816,25 +398,6 @@
     "bathrooms": 2,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "jardín"
     ],
@@ -852,25 +415,6 @@
     "bathrooms": 5,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "bodega",
       "terraza",
@@ -890,25 +434,6 @@
     "bathrooms": 1,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "patio trasero"
     ],
@@ -926,25 +451,6 @@
     "bathrooms": 1,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "balcón",
       "jardín",
@@ -964,25 +470,6 @@
     "bathrooms": 2,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "alberca",
       "cuarto de servicio"
@@ -1001,25 +488,6 @@
     "bathrooms": 5,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "sótano",
       "jardín"
@@ -1038,25 +506,6 @@
     "bathrooms": 2,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "bodega",
       "roof garden",
@@ -1077,25 +526,6 @@
     "bathrooms": 5,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "balcón",
       "sala de TV",
@@ -1116,25 +546,6 @@
     "bathrooms": 5,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "roof garden",
       "cuarto de servicio"
@@ -1153,25 +564,6 @@
     "bathrooms": 2,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "balcón",
       "bodega",
@@ -1192,25 +584,6 @@
     "bathrooms": 3,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "patio trasero",
       "bodega",
@@ -1230,25 +603,6 @@
     "bathrooms": 2,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "alberca",
       "jardín"
@@ -1267,25 +621,6 @@
     "bathrooms": 2,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "patio trasero",
       "jardín",
@@ -1305,25 +640,6 @@
     "bathrooms": 1,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "roof garden",
       "sótano"
@@ -1342,25 +658,6 @@
     "bathrooms": 1,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "sala de TV"
     ],
@@ -1378,25 +675,6 @@
     "bathrooms": 2,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "sala de TV",
       "balcón",
@@ -1417,25 +695,6 @@
     "bathrooms": 5,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "sótano"
     ],
@@ -1453,25 +712,6 @@
     "bathrooms": 4,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "jardín"
     ],
@@ -1489,25 +729,6 @@
     "bathrooms": 5,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "roof garden"
     ],
@@ -1525,25 +746,6 @@
     "bathrooms": 3,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "alberca",
       "sótano",
@@ -1564,25 +766,6 @@
     "bathrooms": 2,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "patio trasero",
       "roof garden",
@@ -1602,25 +785,6 @@
     "bathrooms": 5,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "patio trasero"
     ],
@@ -1638,25 +802,6 @@
     "bathrooms": 2,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "cuarto de servicio",
       "jardín"
@@ -1675,25 +820,6 @@
     "bathrooms": 1,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "alberca"
     ],
@@ -1711,25 +837,6 @@
     "bathrooms": 5,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "bodega"
     ],
@@ -1747,25 +854,6 @@
     "bathrooms": 5,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "cuarto de servicio",
       "balcón",
@@ -1786,25 +874,6 @@
     "bathrooms": 2,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "sótano"
     ],
@@ -1822,25 +891,6 @@
     "bathrooms": 4,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "balcón",
       "jardín",
@@ -1860,25 +910,6 @@
     "bathrooms": 5,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "terraza",
       "sala de TV",
@@ -1898,25 +929,6 @@
     "bathrooms": 3,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "sala de TV"
     ],
@@ -1934,25 +946,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "bodega",
       "jardín"
@@ -1971,25 +964,6 @@
     "bathrooms": 3,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "terraza",
       "alberca"
@@ -2008,25 +982,6 @@
     "bathrooms": 5,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "alberca",
       "bodega",
@@ -2047,25 +1002,6 @@
     "bathrooms": 4,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "roof garden",
       "jardín",
@@ -2086,25 +1022,6 @@
     "bathrooms": 1,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "sótano",
       "jardín",
@@ -2125,25 +1042,6 @@
     "bathrooms": 3,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "cuarto de servicio",
       "jardín",
@@ -2164,25 +1062,6 @@
     "bathrooms": 5,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "alberca",
       "sótano"
@@ -2201,25 +1080,6 @@
     "bathrooms": 1,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "terraza",
       "balcón",
@@ -2239,25 +1099,6 @@
     "bathrooms": 3,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "roof garden",
       "cuarto de servicio",
@@ -2278,25 +1119,6 @@
     "bathrooms": 4,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "cuarto de servicio",
       "patio trasero",
@@ -2316,25 +1138,6 @@
     "bathrooms": 3,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "patio trasero",
       "balcón"
@@ -2353,25 +1156,6 @@
     "bathrooms": 3,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "jardín",
       "sótano",
@@ -2391,25 +1175,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "sótano",
       "alberca",
@@ -2430,25 +1195,6 @@
     "bathrooms": 2,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "cuarto de servicio",
       "sala de TV",
@@ -2469,25 +1215,6 @@
     "bathrooms": 2,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "sótano",
       "balcón",
@@ -2507,25 +1234,6 @@
     "bathrooms": 5,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "alberca"
     ],
@@ -2543,25 +1251,6 @@
     "bathrooms": 1,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "patio trasero",
       "bodega",
@@ -2582,25 +1271,6 @@
     "bathrooms": 2,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "terraza",
       "cuarto de servicio",
@@ -2620,25 +1290,6 @@
     "bathrooms": 3,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "balcón",
       "sótano"
@@ -2657,25 +1308,6 @@
     "bathrooms": 3,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "sótano",
       "balcón",
@@ -2695,25 +1327,6 @@
     "bathrooms": 3,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "jardín",
       "bodega",
@@ -2734,25 +1347,6 @@
     "bathrooms": 5,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "bodega",
       "alberca",
@@ -2773,25 +1367,6 @@
     "bathrooms": 5,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "alberca"
     ],
@@ -2809,25 +1384,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "alberca",
       "patio trasero",
@@ -2848,25 +1404,6 @@
     "bathrooms": 3,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "patio trasero",
       "alberca",
@@ -2886,25 +1423,6 @@
     "bathrooms": 3,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "sala de TV",
       "jardín",
@@ -2925,25 +1443,6 @@
     "bathrooms": 4,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "sala de TV"
     ],
@@ -2961,25 +1460,6 @@
     "bathrooms": 1,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "bodega"
     ],
@@ -2997,25 +1477,6 @@
     "bathrooms": 5,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "bodega",
       "cuarto de servicio"
@@ -3034,25 +1495,6 @@
     "bathrooms": 2,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "sótano",
       "patio trasero"
@@ -3071,25 +1513,6 @@
     "bathrooms": 4,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "balcón",
       "patio trasero",
@@ -3109,25 +1532,6 @@
     "bathrooms": 1,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "alberca",
       "jardín"
@@ -3146,25 +1550,6 @@
     "bathrooms": 1,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "alberca"
     ],
@@ -3182,25 +1567,6 @@
     "bathrooms": 2,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "alberca"
     ],
@@ -3218,25 +1584,6 @@
     "bathrooms": 5,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "bodega"
     ],
@@ -3254,25 +1601,6 @@
     "bathrooms": 4,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "terraza",
       "patio trasero"
@@ -3291,25 +1619,6 @@
     "bathrooms": 5,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "bodega",
       "balcón"
@@ -3328,25 +1637,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "bodega",
       "balcón"
@@ -3365,25 +1655,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "balcón",
       "terraza",
@@ -3403,25 +1674,6 @@
     "bathrooms": 5,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "jardín"
     ],
@@ -3439,25 +1691,6 @@
     "bathrooms": 1,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "cuarto de servicio",
       "patio trasero"
@@ -3476,25 +1709,6 @@
     "bathrooms": 5,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "jardín",
       "alberca",
@@ -3515,25 +1729,6 @@
     "bathrooms": 1,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "jardín"
     ],
@@ -3551,25 +1746,6 @@
     "bathrooms": 1,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "sala de TV",
       "alberca",
@@ -3589,25 +1765,6 @@
     "bathrooms": 3,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "balcón",
       "alberca"
@@ -3626,25 +1783,6 @@
     "bathrooms": 4,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "alberca"
     ],
@@ -3662,25 +1800,6 @@
     "bathrooms": 3,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "sótano",
       "terraza",
@@ -3700,25 +1819,6 @@
     "bathrooms": 5,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "balcón",
       "sótano"
@@ -3737,25 +1837,6 @@
     "bathrooms": 4,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "alberca"
     ],
@@ -3773,25 +1854,6 @@
     "bathrooms": 5,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "patio trasero",
       "terraza"
@@ -3810,25 +1872,6 @@
     "bathrooms": 4,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "bodega",
       "sótano",
@@ -3849,25 +1892,6 @@
     "bathrooms": 5,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "sala de TV",
       "terraza",
@@ -3888,25 +1912,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "jardín",
       "balcón"
@@ -3925,25 +1930,6 @@
     "bathrooms": 2,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "terraza"
     ],
@@ -3961,25 +1947,6 @@
     "bathrooms": 5,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "terraza",
       "sala de TV"
@@ -3998,25 +1965,6 @@
     "bathrooms": 4,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "roof garden",
       "bodega"
@@ -4035,25 +1983,6 @@
     "bathrooms": 5,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "balcón",
       "bodega",
@@ -4074,25 +2003,6 @@
     "bathrooms": 2,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "roof garden",
       "terraza",
@@ -4112,25 +2022,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "alberca",
       "cuarto de servicio"
@@ -4149,25 +2040,6 @@
     "bathrooms": 3,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "balcón",
       "roof garden"
@@ -4186,25 +2058,6 @@
     "bathrooms": 4,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "cuarto de servicio",
       "balcón"
@@ -4223,25 +2076,6 @@
     "bathrooms": 5,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "jardín",
       "balcón",
@@ -4261,25 +2095,6 @@
     "bathrooms": 3,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "balcón",
       "jardín"
@@ -4298,25 +2113,6 @@
     "bathrooms": 1,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "balcón",
       "cuarto de servicio"
@@ -4335,25 +2131,6 @@
     "bathrooms": 4,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "sótano",
       "alberca",
@@ -4374,25 +2151,6 @@
     "bathrooms": 3,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "cuarto de servicio",
       "sala de TV"
@@ -4411,25 +2169,6 @@
     "bathrooms": 4,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "cuarto de servicio",
       "balcón",
@@ -4449,25 +2188,6 @@
     "bathrooms": 1,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "jardín"
     ],
@@ -4485,25 +2205,6 @@
     "bathrooms": 2,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "bodega",
       "cuarto de servicio",
@@ -4523,25 +2224,6 @@
     "bathrooms": 5,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "balcón",
       "terraza"
@@ -4560,25 +2242,6 @@
     "bathrooms": 2,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "balcón"
     ],
@@ -4596,25 +2259,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "jardín"
     ],
@@ -4632,25 +2276,6 @@
     "bathrooms": 2,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "terraza"
     ],
@@ -4668,25 +2293,6 @@
     "bathrooms": 4,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "alberca",
       "patio trasero"
@@ -4705,25 +2311,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "patio trasero",
       "roof garden"
@@ -4742,25 +2329,6 @@
     "bathrooms": 5,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "balcón",
       "terraza",
@@ -4780,25 +2348,6 @@
     "bathrooms": 4,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "alberca"
     ],
@@ -4816,25 +2365,6 @@
     "bathrooms": 2,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "alberca",
       "sala de TV",
@@ -4855,25 +2385,6 @@
     "bathrooms": 2,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "roof garden",
       "bodega",
@@ -4894,25 +2405,6 @@
     "bathrooms": 2,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "alberca",
       "cuarto de servicio"
@@ -4931,25 +2423,6 @@
     "bathrooms": 5,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "patio trasero",
       "roof garden"
@@ -4968,25 +2441,6 @@
     "bathrooms": 4,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "jardín",
       "sala de TV",
@@ -5007,25 +2461,6 @@
     "bathrooms": 4,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "terraza"
     ],
@@ -5043,25 +2478,6 @@
     "bathrooms": 2,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "bodega"
     ],
@@ -5079,25 +2495,6 @@
     "bathrooms": 1,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "cuarto de servicio",
       "bodega"
@@ -5116,25 +2513,6 @@
     "bathrooms": 3,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "bodega",
       "alberca",
@@ -5155,25 +2533,6 @@
     "bathrooms": 4,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "sala de TV"
     ],
@@ -5191,25 +2550,6 @@
     "bathrooms": 4,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "roof garden",
       "bodega",
@@ -5229,25 +2569,6 @@
     "bathrooms": 1,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "bodega",
       "jardín",
@@ -5268,25 +2589,6 @@
     "bathrooms": 2,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "sótano",
       "sala de TV",
@@ -5307,25 +2609,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "roof garden",
       "jardín",
@@ -5345,25 +2628,6 @@
     "bathrooms": 4,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "alberca",
       "sótano"
@@ -5382,25 +2646,6 @@
     "bathrooms": 4,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "terraza",
       "sala de TV",
@@ -5421,25 +2666,6 @@
     "bathrooms": 1,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "cuarto de servicio"
     ],
@@ -5457,25 +2683,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "sótano"
     ],
@@ -5493,25 +2700,6 @@
     "bathrooms": 4,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "balcón",
       "sótano"
@@ -5530,25 +2718,6 @@
     "bathrooms": 2,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "bodega",
       "cuarto de servicio",
@@ -5568,25 +2737,6 @@
     "bathrooms": 4,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "jardín"
     ],
@@ -5604,25 +2754,6 @@
     "bathrooms": 5,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "sótano",
       "balcón"
@@ -5641,25 +2772,6 @@
     "bathrooms": 3,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "roof garden",
       "sala de TV",
@@ -5680,25 +2792,6 @@
     "bathrooms": 2,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "alberca"
     ],
@@ -5716,25 +2809,6 @@
     "bathrooms": 3,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "terraza",
       "roof garden",
@@ -5754,25 +2828,6 @@
     "bathrooms": 1,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "sala de TV"
     ],
@@ -5790,25 +2845,6 @@
     "bathrooms": 4,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "jardín",
       "patio trasero",
@@ -5828,25 +2864,6 @@
     "bathrooms": 2,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "alberca"
     ],
@@ -5864,25 +2881,6 @@
     "bathrooms": 3,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "cuarto de servicio",
       "sótano",
@@ -5902,25 +2900,6 @@
     "bathrooms": 3,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "terraza"
     ],
@@ -5938,25 +2917,6 @@
     "bathrooms": 4,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "jardín",
       "patio trasero"
@@ -5975,25 +2935,6 @@
     "bathrooms": 5,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "jardín",
       "terraza",
@@ -6013,25 +2954,6 @@
     "bathrooms": 4,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "roof garden",
       "balcón",
@@ -6051,25 +2973,6 @@
     "bathrooms": 1,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "patio trasero",
       "balcón",
@@ -6090,25 +2993,6 @@
     "bathrooms": 2,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "alberca",
       "terraza",
@@ -6128,25 +3012,6 @@
     "bathrooms": 3,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "cuarto de servicio",
       "bodega"
@@ -6165,25 +3030,6 @@
     "bathrooms": 2,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "balcón"
     ],
@@ -6201,25 +3047,6 @@
     "bathrooms": 3,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "terraza",
       "bodega"
@@ -6238,25 +3065,6 @@
     "bathrooms": 5,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "alberca",
       "jardín",
@@ -6276,25 +3084,6 @@
     "bathrooms": 3,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "sótano",
       "roof garden",
@@ -6315,25 +3104,6 @@
     "bathrooms": 2,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "patio trasero",
       "roof garden",
@@ -6354,25 +3124,6 @@
     "bathrooms": 4,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "sala de TV",
       "cuarto de servicio",
@@ -6392,25 +3143,6 @@
     "bathrooms": 1,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "jardín"
     ],
@@ -6428,25 +3160,6 @@
     "bathrooms": 4,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "balcón",
       "roof garden"
@@ -6465,25 +3178,6 @@
     "bathrooms": 4,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "alberca",
       "sala de TV"
@@ -6502,25 +3196,6 @@
     "bathrooms": 1,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "patio trasero"
     ],
@@ -6538,25 +3213,6 @@
     "bathrooms": 5,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "alberca",
       "terraza",
@@ -6577,25 +3233,6 @@
     "bathrooms": 1,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "jardín"
     ],
@@ -6613,25 +3250,6 @@
     "bathrooms": 2,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "alberca",
       "cuarto de servicio",
@@ -6651,25 +3269,6 @@
     "bathrooms": 4,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "patio trasero"
     ],
@@ -6687,25 +3286,6 @@
     "bathrooms": 4,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "terraza",
       "jardín",
@@ -6725,25 +3305,6 @@
     "bathrooms": 5,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "terraza"
     ],
@@ -6761,25 +3322,6 @@
     "bathrooms": 2,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "alberca",
       "balcón"
@@ -6798,25 +3340,6 @@
     "bathrooms": 2,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "sótano",
       "alberca"
@@ -6835,25 +3358,6 @@
     "bathrooms": 2,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "roof garden",
       "bodega",
@@ -6874,25 +3378,6 @@
     "bathrooms": 3,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "bodega",
       "sótano",
@@ -6912,25 +3397,6 @@
     "bathrooms": 2,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "sótano",
       "jardín"
@@ -6949,25 +3415,6 @@
     "bathrooms": 4,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "jardín"
     ],
@@ -6985,25 +3432,6 @@
     "bathrooms": 1,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "sala de TV",
       "roof garden",
@@ -7023,25 +3451,6 @@
     "bathrooms": 1,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "cuarto de servicio",
       "balcón",
@@ -7061,25 +3470,6 @@
     "bathrooms": 1,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "bodega",
       "patio trasero",
@@ -7099,25 +3489,6 @@
     "bathrooms": 2,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "alberca",
       "bodega",
@@ -7137,25 +3508,6 @@
     "bathrooms": 3,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "sótano",
       "patio trasero"
@@ -7174,25 +3526,6 @@
     "bathrooms": 3,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "patio trasero"
     ],
@@ -7210,25 +3543,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "sala de TV",
       "roof garden",
@@ -7248,25 +3562,6 @@
     "bathrooms": 5,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "sótano",
       "balcón"
@@ -7285,25 +3580,6 @@
     "bathrooms": 5,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "patio trasero"
     ],
@@ -7321,25 +3597,6 @@
     "bathrooms": 5,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "terraza"
     ],
@@ -7357,25 +3614,6 @@
     "bathrooms": 1,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "alberca",
       "cuarto de servicio"
@@ -7394,25 +3632,6 @@
     "bathrooms": 3,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "sótano"
     ],
@@ -7430,25 +3649,6 @@
     "bathrooms": 1,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "sala de TV"
     ],
@@ -7466,25 +3666,6 @@
     "bathrooms": 3,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "alberca",
       "terraza"
@@ -7503,25 +3684,6 @@
     "bathrooms": 4,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "balcón"
     ],
@@ -7539,25 +3701,6 @@
     "bathrooms": 4,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "jardín",
       "roof garden",
@@ -7578,25 +3721,6 @@
     "bathrooms": 1,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "bodega",
       "sótano",
@@ -7616,25 +3740,6 @@
     "bathrooms": 2,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "sótano",
       "roof garden"
@@ -7653,25 +3758,6 @@
     "bathrooms": 2,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "terraza",
       "cuarto de servicio",
@@ -7692,25 +3778,6 @@
     "bathrooms": 5,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "jardín",
       "roof garden",
       "bodega",
@@ -7730,25 +3797,6 @@
     "bathrooms": 2,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "sótano",
       "patio trasero",
@@ -7769,25 +3817,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "cuarto de servicio"
     ],
@@ -7805,25 +3834,6 @@
     "bathrooms": 4,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "balcón",
       "patio trasero",
@@ -7843,25 +3853,6 @@
     "bathrooms": 1,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "sala de TV"
     ],
@@ -7879,25 +3870,6 @@
     "bathrooms": 4,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "alberca"
     ],
@@ -7915,25 +3887,6 @@
     "bathrooms": 1,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "patio trasero",
       "sala de TV"
@@ -7952,25 +3905,6 @@
     "bathrooms": 2,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "roof garden"
     ],
@@ -7988,25 +3922,6 @@
     "bathrooms": 4,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "sala de TV",
       "bodega",
@@ -8026,25 +3941,6 @@
     "bathrooms": 4,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "roof garden",
       "sótano",
@@ -8064,25 +3960,6 @@
     "bathrooms": 2,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "patio trasero"
     ],
@@ -8100,25 +3977,6 @@
     "bathrooms": 2,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "cuarto de servicio"
     ],
@@ -8136,25 +3994,6 @@
     "bathrooms": 2,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "balcón",
       "alberca",
@@ -8175,25 +4014,6 @@
     "bathrooms": 2,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "bodega",
       "jardín",
@@ -8214,25 +4034,6 @@
     "bathrooms": 2,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "terraza",
       "sótano",
@@ -8252,25 +4053,6 @@
     "bathrooms": 3,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "roof garden",
       "patio trasero"
@@ -8289,25 +4071,6 @@
     "bathrooms": 2,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "bodega",
       "balcón",
       "alberca",
@@ -8327,25 +4090,6 @@
     "bathrooms": 4,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "terraza",
       "sala de TV"
     ],
@@ -8363,25 +4107,6 @@
     "bathrooms": 2,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "cuarto de servicio",
       "sala de TV",
@@ -8401,25 +4126,6 @@
     "bathrooms": 1,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "sala de TV",
       "alberca",
@@ -8439,25 +4145,6 @@
     "bathrooms": 3,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "jardín"
     ],
@@ -8475,25 +4162,6 @@
     "bathrooms": 2,
     "parking_spots": 3,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "terraza",
       "sala de TV",
@@ -8513,25 +4181,6 @@
     "bathrooms": 3,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "roof garden"
     ],
@@ -8549,25 +4198,6 @@
     "bathrooms": 5,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "patio trasero",
       "terraza",
       "sótano"
@@ -8586,25 +4216,6 @@
     "bathrooms": 4,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "patio trasero",
       "sótano"
@@ -8623,25 +4234,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "roof garden",
       "alberca",
       "cuarto de servicio",
@@ -8662,25 +4254,6 @@
     "bathrooms": 1,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "cuarto de servicio",
       "roof garden",
@@ -8700,25 +4273,6 @@
     "bathrooms": 1,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "balcón",
       "roof garden",
       "bodega"
@@ -8737,25 +4291,6 @@
     "bathrooms": 3,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "jardín",
       "sótano"
@@ -8774,25 +4309,6 @@
     "bathrooms": 3,
     "parking_spots": 2,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sala de TV",
       "patio trasero",
       "bodega",
@@ -8812,25 +4328,6 @@
     "bathrooms": 5,
     "parking_spots": 4,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "balcón",
       "terraza"
@@ -8849,25 +4346,6 @@
     "bathrooms": 3,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "bodega",
       "patio trasero",
@@ -8888,25 +4366,6 @@
     "bathrooms": 4,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "alberca",
       "balcón",
       "sótano",
@@ -8927,25 +4386,6 @@
     "bathrooms": 2,
     "parking_spots": 1,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "sótano",
       "patio trasero"
     ],
@@ -8963,25 +4403,6 @@
     "bathrooms": 2,
     "parking_spots": 0,
     "features": [
-  {
-    "title": "Casa en Residencial, Toluca",
-    "price": 4850000,
-    "size_m2": 180,
-    "address": "Calle Pinos 123, Residencial Los Cedros, Toluca",
-    "rooms": 3,
-    "bathrooms": 2,
-    "parking_spots": 2,
-    "features": [
-      "jardín",
-      "terraza",
-      "sala de TV",
-      "bodega"
-    ],
-    "type": "Casa",
-    "state": "Estado de México",
-    "city": "Toluca",
-    "municipality": "Toluca"
-  },
       "cuarto de servicio",
       "balcón",
       "patio trasero"
