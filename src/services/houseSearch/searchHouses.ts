@@ -10,5 +10,6 @@ import { filterHousesByCriteria } from '@/utils/houseFilters';
  */
 export async function searchHousesByNaturalLanguage(query: string, houses: House[]): Promise<House[]> {
   const criteria = await analyzeHouseQuery(query);
+  console.log(criteria, 'criteria');
   return filterHousesByCriteria(houses, criteria);
 }
