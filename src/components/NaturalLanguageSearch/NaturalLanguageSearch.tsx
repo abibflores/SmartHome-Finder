@@ -78,7 +78,7 @@ export const NaturalLanguageSearch = () => {
         </button>
       </form>
       <p className="mt-2 text-sm text-gray-500">
-        Usa lenguaje natural para describir lo que buscas. Por ejemplo: &quot;Casa de 3 habitaciones con jardín grande en Toluca&quot; o &quot;Apartamento con terraza cerca del centro de Metepec&quot;
+        Usa lenguaje natural para describir lo que buscas. Por ejemplo: &quot;Casa de 4 habitaciones con jardín grande en Toluca&quot; o &quot;Apartamento con terraza cerca del centro de Metepec&quot;
       </p>
 
       {/* Mostrar mensaje de error si existe */}
