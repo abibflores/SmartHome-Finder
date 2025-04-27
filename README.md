@@ -126,6 +126,40 @@ Si hubiera contado con más tiempo, enfocaría las mejoras en dos áreas princip
 - Sustituir el archivo JSON por una base de datos como **PostgreSQL** o **DynamoDB** con índices para mejorar el tiempo de respuesta.
 - Ampliar el prompt de OpenAI para considerar más criterios de búsqueda y generar recomendaciones relevantes, incluso cuando no existan coincidencias exactas.
 
+## Limitaciones y Criterios de Búsqueda Soportados
+
+Actualmente, SmartHome Finder soporta los siguientes criterios de búsqueda mediante lenguaje natural:
+
+### Ubicación
+- **Ciudad**: Búsqueda por nombre de ciudad (ej. "Toluca", "Ciudad de México")
+- **Estado**: Filtrado por estado (ej. "Estado de México", "Jalisco")
+- **Municipio**: Especificación de municipio (ej. "Metepec", "Zapopan")
+- **Colonia/Barrio**: Búsqueda por colonias o barrios específicos
+
+### Características de la Propiedad
+- **Tipo de propiedad**: Casa, departamento, terreno, etc.
+- **Características especiales**: Jardín, alberca, terraza, bodega, estacionamiento techado, etc.
+
+### Especificaciones Numéricas
+- **Precio**: Rangos mínimos y máximos (ej. "entre 2 y 3 millones")
+- **Tamaño**: Metros cuadrados mínimos y máximos de construcción
+- **Habitaciones**: Cantidad mínima y máxima de recámaras
+- **Baños**: Cantidad mínima y máxima de baños completos
+- **Estacionamientos**: Número mínimo y máximo de lugares de estacionamiento
+
+### Limitaciones Actuales
+- No se soporta búsqueda por antigüedad de la propiedad
+- No hay filtrado por orientación (norte, sur, etc.)
+- No se incluye búsqueda por amenidades cercanas (escuelas, parques, etc.)
+- No se considera el estado de conservación de la propiedad
+- La búsqueda no incluye propiedades en pre-venta o desarrollo
+- No se filtran resultados por disponibilidad para mascotas
+- No hay soporte para búsqueda por tipo de acabados o materiales
+
+El sistema está diseñado para interpretar consultas en lenguaje natural y extraer los criterios mencionados anteriormente. Consultas como "Casa de 3 habitaciones con jardín grande en Toluca por menos de 3 millones" serán procesadas correctamente, mientras que criterios no soportados serán ignorados.
+
+Estamos trabajando continuamente para ampliar las capacidades de búsqueda y mejorar la precisión de los resultados.
+
 
 ## Cómo Empezar
 
