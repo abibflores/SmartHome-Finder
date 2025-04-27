@@ -1,5 +1,24 @@
 [
   {
+    "title": "Casa en Foresta, Metepec",
+    "price": 3150000,
+    "size_m2": 200,
+    "address": "Foresta, Metepec",
+    "rooms": 3,
+    "bathrooms": 1,
+    "parking_spots": 2,
+    "features": [
+      "sala de TV",
+      "patio trasero",
+      "terraza",
+      "alberca"
+    ],
+    "type": "Casa en condominio",
+    "state": "Estado de México",
+    "city": "Metepec",
+    "municipality": "Metepec"
+  },
+  {
     "title": "Casa en Campestre, Metepec",
     "price": 9962385,
     "size_m2": 567,
@@ -201,6 +220,24 @@
       "alberca"
     ],
     "type": "Penthouse",
+    "state": "Estado de México",
+    "city": "Toluca",
+    "municipality": "Toluca"
+  },
+  {
+    "title": "Casa en San Fermin, Toluca",
+    "price": 4500000,
+    "size_m2": 306,
+    "address": "Calle Antonio Albarran, Colonia Del Parque, Toluca",
+    "rooms": 3,
+    "bathrooms": 3,
+    "parking_spots": 1,
+    "features": [
+      "jardín",
+      "bodega",
+      "alberca"
+    ],
+    "type": "Casa",
     "state": "Estado de México",
     "city": "Toluca",
     "municipality": "Toluca"
