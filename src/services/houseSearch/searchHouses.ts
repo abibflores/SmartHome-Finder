@@ -18,7 +18,6 @@ interface SearchResult {
  */
 export async function searchHousesByNaturalLanguage(query: string, houses: House[]): Promise<SearchResult> {
   const criteria = await analyzeHouseQuery(query);
-  console.log(criteria, 'criteria');
   
   const filteredHouses = filterHousesByCriteria(houses, criteria);
   const explanation = generateExplanation(criteria);
